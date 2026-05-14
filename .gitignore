@@ -1,0 +1,55 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+.venv/
+venv/
+env/
+*.egg-info/
+dist/
+build/
+.eggs/
+.mypy_cache/
+.ruff_cache/
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Environment
+.env
+*.env.local
+
+# Streamlit
+.streamlit/secrets.toml
+
+# Data & models (too large for git)
+data/analytics.duckdb
+data/mlruns/
+data/models/
+*.pkl
+*.joblib
+*.pt
+*.bin
+
+# Ollama models (managed by Docker volume)
+.ollama/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+.DS_Store
+
+# Logs
+logs/
+*.log
+
+# Docker
+docker/postgres-data/
+
+# Secrets
+auth_config.yaml   # Contains hashed passwords — keep local only
+                   # Use auth_config.yaml.example for repo reference
