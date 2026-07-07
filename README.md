@@ -48,7 +48,7 @@ See [docs/setup.md](docs/setup.md) for full setup guide, Windows instructions, a
 ## Sprint plan
 
 | Sprint | Dates | Focus | Status |
-|--------|-------|-------|
+|--------|-------|-------|--------|
 | 1 | May 15–30 | Repo, Docker, skeleton | Done |
 | 2 | Jun 1–15 | Core data schema | Done |
 | 3 | Jun 16–30 | Resume parser & NLP | Done |
