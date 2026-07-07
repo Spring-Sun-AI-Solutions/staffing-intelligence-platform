@@ -47,11 +47,11 @@ See [docs/setup.md](docs/setup.md) for full setup guide, Windows instructions, a
 
 ## Sprint plan
 
-| Sprint | Dates | Focus |
+| Sprint | Dates | Focus | Status |
 |--------|-------|-------|
-| 1 | May 15–30 | Repo, Docker, skeleton |
-| 2 | Jun 1–15 | Core data schema |
-| 3 | Jun 16–30 | Resume parser & NLP |
+| 1 | May 15–30 | Repo, Docker, skeleton | Done |
+| 2 | Jun 1–15 | Core data schema | Done |
+| 3 | Jun 16–30 | Resume parser & NLP | Done |
 | 4 | Jul 1–15 | Matching engine + ML models |
 | 5 | Jul 16–31 | Churn, forecast, rate & anomaly |
 | 6 | Aug 1–15 | LLM, JD cleaner & assistant |
