@@ -42,25 +42,3 @@ streamlit run app.py
 Open **http://localhost:8501**
 
 See [docs/setup.md](docs/setup.md) for full setup guide, Windows instructions, and credentials.
-
----
-
-## Sprint plan
-
-| Sprint | Dates | Focus | Status |
-|--------|-------|-------|--------|
-| 1 | May 15–30 | Repo, Docker, skeleton | Done |
-| 2 | Jun 1–15 | Core data schema | Done |
-| 3 | Jun 16–30 | Resume parser & NLP | Done |
-| 4 | Jul 1–15 | Matching engine + ML models |
-| 5 | Jul 16–31 | Churn, forecast, rate & anomaly |
-| 6 | Aug 1–15 | LLM, JD cleaner & assistant |
-| 7 | Aug 16–31 | Streamlit UI: Talent & Recruiter |
-| 8 | Sep 1–15 | Streamlit UI: All modules |
-| 9 | Sep 16–30 | Polish, install & v1.0 |
-
----
-
-## License
-
-MIT
