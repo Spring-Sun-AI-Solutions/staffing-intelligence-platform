@@ -26,7 +26,8 @@ from typing import Generator, Optional
 
 from data.logger import get_logger
 from ml.performance import timed
-
+from dotenv import load_dotenv
+load_dotenv()
 logger = get_logger("ml.assistant")
 
 INDEX_STORAGE_DIR = Path("data/index")

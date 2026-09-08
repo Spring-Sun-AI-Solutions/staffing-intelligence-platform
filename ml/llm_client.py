@@ -26,7 +26,8 @@ from typing import Generator, Optional
 
 import httpx
 from tenacity import retry, stop_after_attempt, wait_exponential, retry_if_exception_type
-
+from dotenv import load_dotenv
+load_dotenv()
 from data.logger import get_logger
 
 logger = get_logger("ml.llm")

@@ -45,8 +45,12 @@ with col1:
 
 with col2:
     st.subheader("Stage counts")
-    st.dataframe(df_funnel[["stage","count","pct"]]
-        .rename(columns={"stage":"Stage","count":"Count","pct":"% of Total"}),
+    if "pct" not in df_funnel.columns:
+        total = df_funnel["count"].sum()
+        df_funnel["pct"] = (df_funnel["count"] / total * 100).round(1) if total else 0.0
+
+    st.dataframe(df_funnel[["stage", "count", "pct"]]
+        .rename(columns={"stage": "Stage", "count": "Count", "pct": "% of Total"}),
         use_container_width=True, hide_index=True)
 
     total  = df_funnel[df_funnel["stage"]=="submitted"]["count"].sum()
