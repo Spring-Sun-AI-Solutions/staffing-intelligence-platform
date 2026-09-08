@@ -28,7 +28,10 @@ authenticator = stauth.Authenticate(
 )
 
 # ── Login ─────────────────────────────────────────────────────────────────────
-name, auth_status, username = authenticator.login("Login", "main")
+authenticator.login(location="main")
+name        = st.session_state.get("name")
+auth_status = st.session_state.get("authentication_status")
+username    = st.session_state.get("username")
 
 if auth_status is False:
     st.error("Incorrect username or password.")
@@ -82,7 +85,7 @@ with st.sidebar:
         st.page_link("pages/11_timesheet_anomalies.py",label="🕐 Timesheet Flags",   )
 
     st.divider()
-    authenticator.logout("Logout", "sidebar")
+    authenticator.logout(location="sidebar")
 
 # ── Home landing ──────────────────────────────────────────────────────────────
 st.title("🧠 Staffing Intelligence Platform")

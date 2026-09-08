@@ -1,0 +1,2108 @@
+[
+  {
+    "id": 1,
+    "contractor_id": 1,
+    "period": "2026-09-01",
+    "bill_rate": 142.85,
+    "pay_rate": 90.0,
+    "margin": 52.85,
+    "margin_pct": 37.0
+  },
+  {
+    "id": 2,
+    "contractor_id": 1,
+    "period": "2026-08-01",
+    "bill_rate": 142.85,
+    "pay_rate": 90.0,
+    "margin": 52.85,
+    "margin_pct": 37.0
+  },
+  {
+    "id": 3,
+    "contractor_id": 1,
+    "period": "2026-07-01",
+    "bill_rate": 142.85,
+    "pay_rate": 90.0,
+    "margin": 52.85,
+    "margin_pct": 37.0
+  },
+  {
+    "id": 4,
+    "contractor_id": 1,
+    "period": "2026-06-01",
+    "bill_rate": 142.85,
+    "pay_rate": 90.0,
+    "margin": 52.85,
+    "margin_pct": 37.0
+  },
+  {
+    "id": 5,
+    "contractor_id": 1,
+    "period": "2026-05-01",
+    "bill_rate": 142.85,
+    "pay_rate": 90.0,
+    "margin": 52.85,
+    "margin_pct": 37.0
+  },
+  {
+    "id": 6,
+    "contractor_id": 1,
+    "period": "2026-04-01",
+    "bill_rate": 142.85,
+    "pay_rate": 90.0,
+    "margin": 52.85,
+    "margin_pct": 37.0
+  },
+  {
+    "id": 7,
+    "contractor_id": 2,
+    "period": "2026-09-01",
+    "bill_rate": 219.55,
+    "pay_rate": 150.0,
+    "margin": 69.55,
+    "margin_pct": 31.7
+  },
+  {
+    "id": 8,
+    "contractor_id": 2,
+    "period": "2026-08-01",
+    "bill_rate": 219.55,
+    "pay_rate": 150.0,
+    "margin": 69.55,
+    "margin_pct": 31.7
+  },
+  {
+    "id": 9,
+    "contractor_id": 2,
+    "period": "2026-07-01",
+    "bill_rate": 219.55,
+    "pay_rate": 150.0,
+    "margin": 69.55,
+    "margin_pct": 31.7
+  },
+  {
+    "id": 10,
+    "contractor_id": 2,
+    "period": "2026-06-01",
+    "bill_rate": 219.55,
+    "pay_rate": 150.0,
+    "margin": 69.55,
+    "margin_pct": 31.7
+  },
+  {
+    "id": 11,
+    "contractor_id": 2,
+    "period": "2026-05-01",
+    "bill_rate": 219.55,
+    "pay_rate": 150.0,
+    "margin": 69.55,
+    "margin_pct": 31.7
+  },
+  {
+    "id": 12,
+    "contractor_id": 2,
+    "period": "2026-04-01",
+    "bill_rate": 219.55,
+    "pay_rate": 150.0,
+    "margin": 69.55,
+    "margin_pct": 31.7
+  },
+  {
+    "id": 13,
+    "contractor_id": 6,
+    "period": "2026-09-01",
+    "bill_rate": 102.81,
+    "pay_rate": 78.0,
+    "margin": 24.81,
+    "margin_pct": 24.1
+  },
+  {
+    "id": 14,
+    "contractor_id": 6,
+    "period": "2026-08-01",
+    "bill_rate": 102.81,
+    "pay_rate": 78.0,
+    "margin": 24.81,
+    "margin_pct": 24.1
+  },
+  {
+    "id": 15,
+    "contractor_id": 6,
+    "period": "2026-07-01",
+    "bill_rate": 102.81,
+    "pay_rate": 78.0,
+    "margin": 24.81,
+    "margin_pct": 24.1
+  },
+  {
+    "id": 16,
+    "contractor_id": 6,
+    "period": "2026-06-01",
+    "bill_rate": 102.81,
+    "pay_rate": 78.0,
+    "margin": 24.81,
+    "margin_pct": 24.1
+  },
+  {
+    "id": 17,
+    "contractor_id": 6,
+    "period": "2026-05-01",
+    "bill_rate": 102.81,
+    "pay_rate": 78.0,
+    "margin": 24.81,
+    "margin_pct": 24.1
+  },
+  {
+    "id": 18,
+    "contractor_id": 6,
+    "period": "2026-04-01",
+    "bill_rate": 102.81,
+    "pay_rate": 78.0,
+    "margin": 24.81,
+    "margin_pct": 24.1
+  },
+  {
+    "id": 19,
+    "contractor_id": 10,
+    "period": "2026-09-01",
+    "bill_rate": 108.57,
+    "pay_rate": 82.0,
+    "margin": 26.57,
+    "margin_pct": 24.5
+  },
+  {
+    "id": 20,
+    "contractor_id": 10,
+    "period": "2026-08-01",
+    "bill_rate": 108.57,
+    "pay_rate": 82.0,
+    "margin": 26.57,
+    "margin_pct": 24.5
+  },
+  {
+    "id": 21,
+    "contractor_id": 10,
+    "period": "2026-07-01",
+    "bill_rate": 108.57,
+    "pay_rate": 82.0,
+    "margin": 26.57,
+    "margin_pct": 24.5
+  },
+  {
+    "id": 22,
+    "contractor_id": 10,
+    "period": "2026-06-01",
+    "bill_rate": 108.57,
+    "pay_rate": 82.0,
+    "margin": 26.57,
+    "margin_pct": 24.5
+  },
+  {
+    "id": 23,
+    "contractor_id": 10,
+    "period": "2026-05-01",
+    "bill_rate": 108.57,
+    "pay_rate": 82.0,
+    "margin": 26.57,
+    "margin_pct": 24.5
+  },
+  {
+    "id": 24,
+    "contractor_id": 10,
+    "period": "2026-04-01",
+    "bill_rate": 108.57,
+    "pay_rate": 82.0,
+    "margin": 26.57,
+    "margin_pct": 24.5
+  },
+  {
+    "id": 25,
+    "contractor_id": 11,
+    "period": "2026-09-01",
+    "bill_rate": 73.61,
+    "pay_rate": 55.0,
+    "margin": 18.61,
+    "margin_pct": 25.3
+  },
+  {
+    "id": 26,
+    "contractor_id": 11,
+    "period": "2026-08-01",
+    "bill_rate": 73.61,
+    "pay_rate": 55.0,
+    "margin": 18.61,
+    "margin_pct": 25.3
+  },
+  {
+    "id": 27,
+    "contractor_id": 11,
+    "period": "2026-07-01",
+    "bill_rate": 73.61,
+    "pay_rate": 55.0,
+    "margin": 18.61,
+    "margin_pct": 25.3
+  },
+  {
+    "id": 28,
+    "contractor_id": 11,
+    "period": "2026-06-01",
+    "bill_rate": 73.61,
+    "pay_rate": 55.0,
+    "margin": 18.61,
+    "margin_pct": 25.3
+  },
+  {
+    "id": 29,
+    "contractor_id": 11,
+    "period": "2026-05-01",
+    "bill_rate": 73.61,
+    "pay_rate": 55.0,
+    "margin": 18.61,
+    "margin_pct": 25.3
+  },
+  {
+    "id": 30,
+    "contractor_id": 11,
+    "period": "2026-04-01",
+    "bill_rate": 73.61,
+    "pay_rate": 55.0,
+    "margin": 18.61,
+    "margin_pct": 25.3
+  },
+  {
+    "id": 31,
+    "contractor_id": 16,
+    "period": "2026-09-01",
+    "bill_rate": 121.88,
+    "pay_rate": 85.0,
+    "margin": 36.88,
+    "margin_pct": 30.3
+  },
+  {
+    "id": 32,
+    "contractor_id": 16,
+    "period": "2026-08-01",
+    "bill_rate": 121.88,
+    "pay_rate": 85.0,
+    "margin": 36.88,
+    "margin_pct": 30.3
+  },
+  {
+    "id": 33,
+    "contractor_id": 16,
+    "period": "2026-07-01",
+    "bill_rate": 121.88,
+    "pay_rate": 85.0,
+    "margin": 36.88,
+    "margin_pct": 30.3
+  },
+  {
+    "id": 34,
+    "contractor_id": 16,
+    "period": "2026-06-01",
+    "bill_rate": 121.88,
+    "pay_rate": 85.0,
+    "margin": 36.88,
+    "margin_pct": 30.3
+  },
+  {
+    "id": 35,
+    "contractor_id": 16,
+    "period": "2026-05-01",
+    "bill_rate": 121.88,
+    "pay_rate": 85.0,
+    "margin": 36.88,
+    "margin_pct": 30.3
+  },
+  {
+    "id": 36,
+    "contractor_id": 16,
+    "period": "2026-04-01",
+    "bill_rate": 121.88,
+    "pay_rate": 85.0,
+    "margin": 36.88,
+    "margin_pct": 30.3
+  },
+  {
+    "id": 37,
+    "contractor_id": 19,
+    "period": "2026-09-01",
+    "bill_rate": 223.53,
+    "pay_rate": 162.0,
+    "margin": 61.53,
+    "margin_pct": 27.5
+  },
+  {
+    "id": 38,
+    "contractor_id": 19,
+    "period": "2026-08-01",
+    "bill_rate": 223.53,
+    "pay_rate": 162.0,
+    "margin": 61.53,
+    "margin_pct": 27.5
+  },
+  {
+    "id": 39,
+    "contractor_id": 19,
+    "period": "2026-07-01",
+    "bill_rate": 223.53,
+    "pay_rate": 162.0,
+    "margin": 61.53,
+    "margin_pct": 27.5
+  },
+  {
+    "id": 40,
+    "contractor_id": 19,
+    "period": "2026-06-01",
+    "bill_rate": 223.53,
+    "pay_rate": 162.0,
+    "margin": 61.53,
+    "margin_pct": 27.5
+  },
+  {
+    "id": 41,
+    "contractor_id": 19,
+    "period": "2026-05-01",
+    "bill_rate": 223.53,
+    "pay_rate": 162.0,
+    "margin": 61.53,
+    "margin_pct": 27.5
+  },
+  {
+    "id": 42,
+    "contractor_id": 19,
+    "period": "2026-04-01",
+    "bill_rate": 223.53,
+    "pay_rate": 162.0,
+    "margin": 61.53,
+    "margin_pct": 27.5
+  },
+  {
+    "id": 43,
+    "contractor_id": 21,
+    "period": "2026-09-01",
+    "bill_rate": 74.71,
+    "pay_rate": 58.0,
+    "margin": 16.71,
+    "margin_pct": 22.4
+  },
+  {
+    "id": 44,
+    "contractor_id": 21,
+    "period": "2026-08-01",
+    "bill_rate": 74.71,
+    "pay_rate": 58.0,
+    "margin": 16.71,
+    "margin_pct": 22.4
+  },
+  {
+    "id": 45,
+    "contractor_id": 21,
+    "period": "2026-07-01",
+    "bill_rate": 74.71,
+    "pay_rate": 58.0,
+    "margin": 16.71,
+    "margin_pct": 22.4
+  },
+  {
+    "id": 46,
+    "contractor_id": 21,
+    "period": "2026-06-01",
+    "bill_rate": 74.71,
+    "pay_rate": 58.0,
+    "margin": 16.71,
+    "margin_pct": 22.4
+  },
+  {
+    "id": 47,
+    "contractor_id": 21,
+    "period": "2026-05-01",
+    "bill_rate": 74.71,
+    "pay_rate": 58.0,
+    "margin": 16.71,
+    "margin_pct": 22.4
+  },
+  {
+    "id": 48,
+    "contractor_id": 21,
+    "period": "2026-04-01",
+    "bill_rate": 74.71,
+    "pay_rate": 58.0,
+    "margin": 16.71,
+    "margin_pct": 22.4
+  },
+  {
+    "id": 49,
+    "contractor_id": 22,
+    "period": "2026-09-01",
+    "bill_rate": 237.36,
+    "pay_rate": 144.0,
+    "margin": 93.36,
+    "margin_pct": 39.3
+  },
+  {
+    "id": 50,
+    "contractor_id": 22,
+    "period": "2026-08-01",
+    "bill_rate": 237.36,
+    "pay_rate": 144.0,
+    "margin": 93.36,
+    "margin_pct": 39.3
+  },
+  {
+    "id": 51,
+    "contractor_id": 22,
+    "period": "2026-07-01",
+    "bill_rate": 237.36,
+    "pay_rate": 144.0,
+    "margin": 93.36,
+    "margin_pct": 39.3
+  },
+  {
+    "id": 52,
+    "contractor_id": 22,
+    "period": "2026-06-01",
+    "bill_rate": 237.36,
+    "pay_rate": 144.0,
+    "margin": 93.36,
+    "margin_pct": 39.3
+  },
+  {
+    "id": 53,
+    "contractor_id": 22,
+    "period": "2026-05-01",
+    "bill_rate": 237.36,
+    "pay_rate": 144.0,
+    "margin": 93.36,
+    "margin_pct": 39.3
+  },
+  {
+    "id": 54,
+    "contractor_id": 22,
+    "period": "2026-04-01",
+    "bill_rate": 237.36,
+    "pay_rate": 144.0,
+    "margin": 93.36,
+    "margin_pct": 39.3
+  },
+  {
+    "id": 55,
+    "contractor_id": 23,
+    "period": "2026-09-01",
+    "bill_rate": 215.61,
+    "pay_rate": 154.0,
+    "margin": 61.61,
+    "margin_pct": 28.6
+  },
+  {
+    "id": 56,
+    "contractor_id": 23,
+    "period": "2026-08-01",
+    "bill_rate": 215.61,
+    "pay_rate": 154.0,
+    "margin": 61.61,
+    "margin_pct": 28.6
+  },
+  {
+    "id": 57,
+    "contractor_id": 23,
+    "period": "2026-07-01",
+    "bill_rate": 215.61,
+    "pay_rate": 154.0,
+    "margin": 61.61,
+    "margin_pct": 28.6
+  },
+  {
+    "id": 58,
+    "contractor_id": 23,
+    "period": "2026-06-01",
+    "bill_rate": 215.61,
+    "pay_rate": 154.0,
+    "margin": 61.61,
+    "margin_pct": 28.6
+  },
+  {
+    "id": 59,
+    "contractor_id": 23,
+    "period": "2026-05-01",
+    "bill_rate": 215.61,
+    "pay_rate": 154.0,
+    "margin": 61.61,
+    "margin_pct": 28.6
+  },
+  {
+    "id": 60,
+    "contractor_id": 23,
+    "period": "2026-04-01",
+    "bill_rate": 215.61,
+    "pay_rate": 154.0,
+    "margin": 61.61,
+    "margin_pct": 28.6
+  },
+  {
+    "id": 61,
+    "contractor_id": 25,
+    "period": "2026-09-01",
+    "bill_rate": 166.37,
+    "pay_rate": 134.0,
+    "margin": 32.37,
+    "margin_pct": 19.5
+  },
+  {
+    "id": 62,
+    "contractor_id": 25,
+    "period": "2026-08-01",
+    "bill_rate": 166.37,
+    "pay_rate": 134.0,
+    "margin": 32.37,
+    "margin_pct": 19.5
+  },
+  {
+    "id": 63,
+    "contractor_id": 25,
+    "period": "2026-07-01",
+    "bill_rate": 166.37,
+    "pay_rate": 134.0,
+    "margin": 32.37,
+    "margin_pct": 19.5
+  },
+  {
+    "id": 64,
+    "contractor_id": 25,
+    "period": "2026-06-01",
+    "bill_rate": 166.37,
+    "pay_rate": 134.0,
+    "margin": 32.37,
+    "margin_pct": 19.5
+  },
+  {
+    "id": 65,
+    "contractor_id": 25,
+    "period": "2026-05-01",
+    "bill_rate": 166.37,
+    "pay_rate": 134.0,
+    "margin": 32.37,
+    "margin_pct": 19.5
+  },
+  {
+    "id": 66,
+    "contractor_id": 25,
+    "period": "2026-04-01",
+    "bill_rate": 166.37,
+    "pay_rate": 134.0,
+    "margin": 32.37,
+    "margin_pct": 19.5
+  },
+  {
+    "id": 67,
+    "contractor_id": 26,
+    "period": "2026-09-01",
+    "bill_rate": 151.75,
+    "pay_rate": 120.0,
+    "margin": 31.75,
+    "margin_pct": 20.9
+  },
+  {
+    "id": 68,
+    "contractor_id": 26,
+    "period": "2026-08-01",
+    "bill_rate": 151.75,
+    "pay_rate": 120.0,
+    "margin": 31.75,
+    "margin_pct": 20.9
+  },
+  {
+    "id": 69,
+    "contractor_id": 26,
+    "period": "2026-07-01",
+    "bill_rate": 151.75,
+    "pay_rate": 120.0,
+    "margin": 31.75,
+    "margin_pct": 20.9
+  },
+  {
+    "id": 70,
+    "contractor_id": 26,
+    "period": "2026-06-01",
+    "bill_rate": 151.75,
+    "pay_rate": 120.0,
+    "margin": 31.75,
+    "margin_pct": 20.9
+  },
+  {
+    "id": 71,
+    "contractor_id": 26,
+    "period": "2026-05-01",
+    "bill_rate": 151.75,
+    "pay_rate": 120.0,
+    "margin": 31.75,
+    "margin_pct": 20.9
+  },
+  {
+    "id": 72,
+    "contractor_id": 26,
+    "period": "2026-04-01",
+    "bill_rate": 151.75,
+    "pay_rate": 120.0,
+    "margin": 31.75,
+    "margin_pct": 20.9
+  },
+  {
+    "id": 73,
+    "contractor_id": 28,
+    "period": "2026-09-01",
+    "bill_rate": 92.74,
+    "pay_rate": 62.0,
+    "margin": 30.74,
+    "margin_pct": 33.1
+  },
+  {
+    "id": 74,
+    "contractor_id": 28,
+    "period": "2026-08-01",
+    "bill_rate": 92.74,
+    "pay_rate": 62.0,
+    "margin": 30.74,
+    "margin_pct": 33.1
+  },
+  {
+    "id": 75,
+    "contractor_id": 28,
+    "period": "2026-07-01",
+    "bill_rate": 92.74,
+    "pay_rate": 62.0,
+    "margin": 30.74,
+    "margin_pct": 33.1
+  },
+  {
+    "id": 76,
+    "contractor_id": 28,
+    "period": "2026-06-01",
+    "bill_rate": 92.74,
+    "pay_rate": 62.0,
+    "margin": 30.74,
+    "margin_pct": 33.1
+  },
+  {
+    "id": 77,
+    "contractor_id": 28,
+    "period": "2026-05-01",
+    "bill_rate": 92.74,
+    "pay_rate": 62.0,
+    "margin": 30.74,
+    "margin_pct": 33.1
+  },
+  {
+    "id": 78,
+    "contractor_id": 28,
+    "period": "2026-04-01",
+    "bill_rate": 92.74,
+    "pay_rate": 62.0,
+    "margin": 30.74,
+    "margin_pct": 33.1
+  },
+  {
+    "id": 79,
+    "contractor_id": 30,
+    "period": "2026-09-01",
+    "bill_rate": 112.19,
+    "pay_rate": 70.0,
+    "margin": 42.19,
+    "margin_pct": 37.6
+  },
+  {
+    "id": 80,
+    "contractor_id": 30,
+    "period": "2026-08-01",
+    "bill_rate": 112.19,
+    "pay_rate": 70.0,
+    "margin": 42.19,
+    "margin_pct": 37.6
+  },
+  {
+    "id": 81,
+    "contractor_id": 30,
+    "period": "2026-07-01",
+    "bill_rate": 112.19,
+    "pay_rate": 70.0,
+    "margin": 42.19,
+    "margin_pct": 37.6
+  },
+  {
+    "id": 82,
+    "contractor_id": 30,
+    "period": "2026-06-01",
+    "bill_rate": 112.19,
+    "pay_rate": 70.0,
+    "margin": 42.19,
+    "margin_pct": 37.6
+  },
+  {
+    "id": 83,
+    "contractor_id": 30,
+    "period": "2026-05-01",
+    "bill_rate": 112.19,
+    "pay_rate": 70.0,
+    "margin": 42.19,
+    "margin_pct": 37.6
+  },
+  {
+    "id": 84,
+    "contractor_id": 30,
+    "period": "2026-04-01",
+    "bill_rate": 112.19,
+    "pay_rate": 70.0,
+    "margin": 42.19,
+    "margin_pct": 37.6
+  },
+  {
+    "id": 85,
+    "contractor_id": 32,
+    "period": "2026-09-01",
+    "bill_rate": 144.72,
+    "pay_rate": 106.0,
+    "margin": 38.72,
+    "margin_pct": 26.8
+  },
+  {
+    "id": 86,
+    "contractor_id": 32,
+    "period": "2026-08-01",
+    "bill_rate": 144.72,
+    "pay_rate": 106.0,
+    "margin": 38.72,
+    "margin_pct": 26.8
+  },
+  {
+    "id": 87,
+    "contractor_id": 32,
+    "period": "2026-07-01",
+    "bill_rate": 144.72,
+    "pay_rate": 106.0,
+    "margin": 38.72,
+    "margin_pct": 26.8
+  },
+  {
+    "id": 88,
+    "contractor_id": 32,
+    "period": "2026-06-01",
+    "bill_rate": 144.72,
+    "pay_rate": 106.0,
+    "margin": 38.72,
+    "margin_pct": 26.8
+  },
+  {
+    "id": 89,
+    "contractor_id": 32,
+    "period": "2026-05-01",
+    "bill_rate": 144.72,
+    "pay_rate": 106.0,
+    "margin": 38.72,
+    "margin_pct": 26.8
+  },
+  {
+    "id": 90,
+    "contractor_id": 32,
+    "period": "2026-04-01",
+    "bill_rate": 144.72,
+    "pay_rate": 106.0,
+    "margin": 38.72,
+    "margin_pct": 26.8
+  },
+  {
+    "id": 91,
+    "contractor_id": 37,
+    "period": "2026-09-01",
+    "bill_rate": 150.81,
+    "pay_rate": 112.0,
+    "margin": 38.81,
+    "margin_pct": 25.7
+  },
+  {
+    "id": 92,
+    "contractor_id": 37,
+    "period": "2026-08-01",
+    "bill_rate": 150.81,
+    "pay_rate": 112.0,
+    "margin": 38.81,
+    "margin_pct": 25.7
+  },
+  {
+    "id": 93,
+    "contractor_id": 37,
+    "period": "2026-07-01",
+    "bill_rate": 150.81,
+    "pay_rate": 112.0,
+    "margin": 38.81,
+    "margin_pct": 25.7
+  },
+  {
+    "id": 94,
+    "contractor_id": 37,
+    "period": "2026-06-01",
+    "bill_rate": 150.81,
+    "pay_rate": 112.0,
+    "margin": 38.81,
+    "margin_pct": 25.7
+  },
+  {
+    "id": 95,
+    "contractor_id": 37,
+    "period": "2026-05-01",
+    "bill_rate": 150.81,
+    "pay_rate": 112.0,
+    "margin": 38.81,
+    "margin_pct": 25.7
+  },
+  {
+    "id": 96,
+    "contractor_id": 37,
+    "period": "2026-04-01",
+    "bill_rate": 150.81,
+    "pay_rate": 112.0,
+    "margin": 38.81,
+    "margin_pct": 25.7
+  },
+  {
+    "id": 97,
+    "contractor_id": 41,
+    "period": "2026-09-01",
+    "bill_rate": 132.35,
+    "pay_rate": 108.0,
+    "margin": 24.35,
+    "margin_pct": 18.4
+  },
+  {
+    "id": 98,
+    "contractor_id": 41,
+    "period": "2026-08-01",
+    "bill_rate": 132.35,
+    "pay_rate": 108.0,
+    "margin": 24.35,
+    "margin_pct": 18.4
+  },
+  {
+    "id": 99,
+    "contractor_id": 41,
+    "period": "2026-07-01",
+    "bill_rate": 132.35,
+    "pay_rate": 108.0,
+    "margin": 24.35,
+    "margin_pct": 18.4
+  },
+  {
+    "id": 100,
+    "contractor_id": 41,
+    "period": "2026-06-01",
+    "bill_rate": 132.35,
+    "pay_rate": 108.0,
+    "margin": 24.35,
+    "margin_pct": 18.4
+  },
+  {
+    "id": 101,
+    "contractor_id": 41,
+    "period": "2026-05-01",
+    "bill_rate": 132.35,
+    "pay_rate": 108.0,
+    "margin": 24.35,
+    "margin_pct": 18.4
+  },
+  {
+    "id": 102,
+    "contractor_id": 41,
+    "period": "2026-04-01",
+    "bill_rate": 132.35,
+    "pay_rate": 108.0,
+    "margin": 24.35,
+    "margin_pct": 18.4
+  },
+  {
+    "id": 103,
+    "contractor_id": 42,
+    "period": "2026-09-01",
+    "bill_rate": 178.48,
+    "pay_rate": 112.0,
+    "margin": 66.48,
+    "margin_pct": 37.2
+  },
+  {
+    "id": 104,
+    "contractor_id": 42,
+    "period": "2026-08-01",
+    "bill_rate": 178.48,
+    "pay_rate": 112.0,
+    "margin": 66.48,
+    "margin_pct": 37.2
+  },
+  {
+    "id": 105,
+    "contractor_id": 42,
+    "period": "2026-07-01",
+    "bill_rate": 178.48,
+    "pay_rate": 112.0,
+    "margin": 66.48,
+    "margin_pct": 37.2
+  },
+  {
+    "id": 106,
+    "contractor_id": 42,
+    "period": "2026-06-01",
+    "bill_rate": 178.48,
+    "pay_rate": 112.0,
+    "margin": 66.48,
+    "margin_pct": 37.2
+  },
+  {
+    "id": 107,
+    "contractor_id": 42,
+    "period": "2026-05-01",
+    "bill_rate": 178.48,
+    "pay_rate": 112.0,
+    "margin": 66.48,
+    "margin_pct": 37.2
+  },
+  {
+    "id": 108,
+    "contractor_id": 42,
+    "period": "2026-04-01",
+    "bill_rate": 178.48,
+    "pay_rate": 112.0,
+    "margin": 66.48,
+    "margin_pct": 37.2
+  },
+  {
+    "id": 109,
+    "contractor_id": 43,
+    "period": "2026-09-01",
+    "bill_rate": 155.97,
+    "pay_rate": 100.0,
+    "margin": 55.97,
+    "margin_pct": 35.9
+  },
+  {
+    "id": 110,
+    "contractor_id": 43,
+    "period": "2026-08-01",
+    "bill_rate": 155.97,
+    "pay_rate": 100.0,
+    "margin": 55.97,
+    "margin_pct": 35.9
+  },
+  {
+    "id": 111,
+    "contractor_id": 43,
+    "period": "2026-07-01",
+    "bill_rate": 155.97,
+    "pay_rate": 100.0,
+    "margin": 55.97,
+    "margin_pct": 35.9
+  },
+  {
+    "id": 112,
+    "contractor_id": 43,
+    "period": "2026-06-01",
+    "bill_rate": 155.97,
+    "pay_rate": 100.0,
+    "margin": 55.97,
+    "margin_pct": 35.9
+  },
+  {
+    "id": 113,
+    "contractor_id": 43,
+    "period": "2026-05-01",
+    "bill_rate": 155.97,
+    "pay_rate": 100.0,
+    "margin": 55.97,
+    "margin_pct": 35.9
+  },
+  {
+    "id": 114,
+    "contractor_id": 43,
+    "period": "2026-04-01",
+    "bill_rate": 155.97,
+    "pay_rate": 100.0,
+    "margin": 55.97,
+    "margin_pct": 35.9
+  },
+  {
+    "id": 115,
+    "contractor_id": 45,
+    "period": "2026-09-01",
+    "bill_rate": 148.91,
+    "pay_rate": 121.0,
+    "margin": 27.91,
+    "margin_pct": 18.7
+  },
+  {
+    "id": 116,
+    "contractor_id": 45,
+    "period": "2026-08-01",
+    "bill_rate": 148.91,
+    "pay_rate": 121.0,
+    "margin": 27.91,
+    "margin_pct": 18.7
+  },
+  {
+    "id": 117,
+    "contractor_id": 45,
+    "period": "2026-07-01",
+    "bill_rate": 148.91,
+    "pay_rate": 121.0,
+    "margin": 27.91,
+    "margin_pct": 18.7
+  },
+  {
+    "id": 118,
+    "contractor_id": 45,
+    "period": "2026-06-01",
+    "bill_rate": 148.91,
+    "pay_rate": 121.0,
+    "margin": 27.91,
+    "margin_pct": 18.7
+  },
+  {
+    "id": 119,
+    "contractor_id": 45,
+    "period": "2026-05-01",
+    "bill_rate": 148.91,
+    "pay_rate": 121.0,
+    "margin": 27.91,
+    "margin_pct": 18.7
+  },
+  {
+    "id": 120,
+    "contractor_id": 45,
+    "period": "2026-04-01",
+    "bill_rate": 148.91,
+    "pay_rate": 121.0,
+    "margin": 27.91,
+    "margin_pct": 18.7
+  },
+  {
+    "id": 121,
+    "contractor_id": 47,
+    "period": "2026-09-01",
+    "bill_rate": 86.34,
+    "pay_rate": 65.0,
+    "margin": 21.34,
+    "margin_pct": 24.7
+  },
+  {
+    "id": 122,
+    "contractor_id": 47,
+    "period": "2026-08-01",
+    "bill_rate": 86.34,
+    "pay_rate": 65.0,
+    "margin": 21.34,
+    "margin_pct": 24.7
+  },
+  {
+    "id": 123,
+    "contractor_id": 47,
+    "period": "2026-07-01",
+    "bill_rate": 86.34,
+    "pay_rate": 65.0,
+    "margin": 21.34,
+    "margin_pct": 24.7
+  },
+  {
+    "id": 124,
+    "contractor_id": 47,
+    "period": "2026-06-01",
+    "bill_rate": 86.34,
+    "pay_rate": 65.0,
+    "margin": 21.34,
+    "margin_pct": 24.7
+  },
+  {
+    "id": 125,
+    "contractor_id": 47,
+    "period": "2026-05-01",
+    "bill_rate": 86.34,
+    "pay_rate": 65.0,
+    "margin": 21.34,
+    "margin_pct": 24.7
+  },
+  {
+    "id": 126,
+    "contractor_id": 47,
+    "period": "2026-04-01",
+    "bill_rate": 86.34,
+    "pay_rate": 65.0,
+    "margin": 21.34,
+    "margin_pct": 24.7
+  },
+  {
+    "id": 127,
+    "contractor_id": 49,
+    "period": "2026-09-01",
+    "bill_rate": 179.86,
+    "pay_rate": 110.0,
+    "margin": 69.86,
+    "margin_pct": 38.8
+  },
+  {
+    "id": 128,
+    "contractor_id": 49,
+    "period": "2026-08-01",
+    "bill_rate": 179.86,
+    "pay_rate": 110.0,
+    "margin": 69.86,
+    "margin_pct": 38.8
+  },
+  {
+    "id": 129,
+    "contractor_id": 49,
+    "period": "2026-07-01",
+    "bill_rate": 179.86,
+    "pay_rate": 110.0,
+    "margin": 69.86,
+    "margin_pct": 38.8
+  },
+  {
+    "id": 130,
+    "contractor_id": 49,
+    "period": "2026-06-01",
+    "bill_rate": 179.86,
+    "pay_rate": 110.0,
+    "margin": 69.86,
+    "margin_pct": 38.8
+  },
+  {
+    "id": 131,
+    "contractor_id": 49,
+    "period": "2026-05-01",
+    "bill_rate": 179.86,
+    "pay_rate": 110.0,
+    "margin": 69.86,
+    "margin_pct": 38.8
+  },
+  {
+    "id": 132,
+    "contractor_id": 49,
+    "period": "2026-04-01",
+    "bill_rate": 179.86,
+    "pay_rate": 110.0,
+    "margin": 69.86,
+    "margin_pct": 38.8
+  },
+  {
+    "id": 133,
+    "contractor_id": 52,
+    "period": "2026-09-01",
+    "bill_rate": 165.72,
+    "pay_rate": 127.0,
+    "margin": 38.72,
+    "margin_pct": 23.4
+  },
+  {
+    "id": 134,
+    "contractor_id": 52,
+    "period": "2026-08-01",
+    "bill_rate": 165.72,
+    "pay_rate": 127.0,
+    "margin": 38.72,
+    "margin_pct": 23.4
+  },
+  {
+    "id": 135,
+    "contractor_id": 52,
+    "period": "2026-07-01",
+    "bill_rate": 165.72,
+    "pay_rate": 127.0,
+    "margin": 38.72,
+    "margin_pct": 23.4
+  },
+  {
+    "id": 136,
+    "contractor_id": 52,
+    "period": "2026-06-01",
+    "bill_rate": 165.72,
+    "pay_rate": 127.0,
+    "margin": 38.72,
+    "margin_pct": 23.4
+  },
+  {
+    "id": 137,
+    "contractor_id": 52,
+    "period": "2026-05-01",
+    "bill_rate": 165.72,
+    "pay_rate": 127.0,
+    "margin": 38.72,
+    "margin_pct": 23.4
+  },
+  {
+    "id": 138,
+    "contractor_id": 52,
+    "period": "2026-04-01",
+    "bill_rate": 165.72,
+    "pay_rate": 127.0,
+    "margin": 38.72,
+    "margin_pct": 23.4
+  },
+  {
+    "id": 139,
+    "contractor_id": 53,
+    "period": "2026-09-01",
+    "bill_rate": 84.46,
+    "pay_rate": 63.0,
+    "margin": 21.46,
+    "margin_pct": 25.4
+  },
+  {
+    "id": 140,
+    "contractor_id": 53,
+    "period": "2026-08-01",
+    "bill_rate": 84.46,
+    "pay_rate": 63.0,
+    "margin": 21.46,
+    "margin_pct": 25.4
+  },
+  {
+    "id": 141,
+    "contractor_id": 53,
+    "period": "2026-07-01",
+    "bill_rate": 84.46,
+    "pay_rate": 63.0,
+    "margin": 21.46,
+    "margin_pct": 25.4
+  },
+  {
+    "id": 142,
+    "contractor_id": 53,
+    "period": "2026-06-01",
+    "bill_rate": 84.46,
+    "pay_rate": 63.0,
+    "margin": 21.46,
+    "margin_pct": 25.4
+  },
+  {
+    "id": 143,
+    "contractor_id": 53,
+    "period": "2026-05-01",
+    "bill_rate": 84.46,
+    "pay_rate": 63.0,
+    "margin": 21.46,
+    "margin_pct": 25.4
+  },
+  {
+    "id": 144,
+    "contractor_id": 53,
+    "period": "2026-04-01",
+    "bill_rate": 84.46,
+    "pay_rate": 63.0,
+    "margin": 21.46,
+    "margin_pct": 25.4
+  },
+  {
+    "id": 145,
+    "contractor_id": 55,
+    "period": "2026-09-01",
+    "bill_rate": 145.6,
+    "pay_rate": 113.0,
+    "margin": 32.6,
+    "margin_pct": 22.4
+  },
+  {
+    "id": 146,
+    "contractor_id": 55,
+    "period": "2026-08-01",
+    "bill_rate": 145.6,
+    "pay_rate": 113.0,
+    "margin": 32.6,
+    "margin_pct": 22.4
+  },
+  {
+    "id": 147,
+    "contractor_id": 55,
+    "period": "2026-07-01",
+    "bill_rate": 145.6,
+    "pay_rate": 113.0,
+    "margin": 32.6,
+    "margin_pct": 22.4
+  },
+  {
+    "id": 148,
+    "contractor_id": 55,
+    "period": "2026-06-01",
+    "bill_rate": 145.6,
+    "pay_rate": 113.0,
+    "margin": 32.6,
+    "margin_pct": 22.4
+  },
+  {
+    "id": 149,
+    "contractor_id": 55,
+    "period": "2026-05-01",
+    "bill_rate": 145.6,
+    "pay_rate": 113.0,
+    "margin": 32.6,
+    "margin_pct": 22.4
+  },
+  {
+    "id": 150,
+    "contractor_id": 55,
+    "period": "2026-04-01",
+    "bill_rate": 145.6,
+    "pay_rate": 113.0,
+    "margin": 32.6,
+    "margin_pct": 22.4
+  },
+  {
+    "id": 151,
+    "contractor_id": 56,
+    "period": "2026-09-01",
+    "bill_rate": 268.67,
+    "pay_rate": 164.0,
+    "margin": 104.67,
+    "margin_pct": 39.0
+  },
+  {
+    "id": 152,
+    "contractor_id": 56,
+    "period": "2026-08-01",
+    "bill_rate": 268.67,
+    "pay_rate": 164.0,
+    "margin": 104.67,
+    "margin_pct": 39.0
+  },
+  {
+    "id": 153,
+    "contractor_id": 56,
+    "period": "2026-07-01",
+    "bill_rate": 268.67,
+    "pay_rate": 164.0,
+    "margin": 104.67,
+    "margin_pct": 39.0
+  },
+  {
+    "id": 154,
+    "contractor_id": 56,
+    "period": "2026-06-01",
+    "bill_rate": 268.67,
+    "pay_rate": 164.0,
+    "margin": 104.67,
+    "margin_pct": 39.0
+  },
+  {
+    "id": 155,
+    "contractor_id": 56,
+    "period": "2026-05-01",
+    "bill_rate": 268.67,
+    "pay_rate": 164.0,
+    "margin": 104.67,
+    "margin_pct": 39.0
+  },
+  {
+    "id": 156,
+    "contractor_id": 56,
+    "period": "2026-04-01",
+    "bill_rate": 268.67,
+    "pay_rate": 164.0,
+    "margin": 104.67,
+    "margin_pct": 39.0
+  },
+  {
+    "id": 157,
+    "contractor_id": 59,
+    "period": "2026-09-01",
+    "bill_rate": 90.41,
+    "pay_rate": 70.0,
+    "margin": 20.41,
+    "margin_pct": 22.6
+  },
+  {
+    "id": 158,
+    "contractor_id": 59,
+    "period": "2026-08-01",
+    "bill_rate": 90.41,
+    "pay_rate": 70.0,
+    "margin": 20.41,
+    "margin_pct": 22.6
+  },
+  {
+    "id": 159,
+    "contractor_id": 59,
+    "period": "2026-07-01",
+    "bill_rate": 90.41,
+    "pay_rate": 70.0,
+    "margin": 20.41,
+    "margin_pct": 22.6
+  },
+  {
+    "id": 160,
+    "contractor_id": 59,
+    "period": "2026-06-01",
+    "bill_rate": 90.41,
+    "pay_rate": 70.0,
+    "margin": 20.41,
+    "margin_pct": 22.6
+  },
+  {
+    "id": 161,
+    "contractor_id": 59,
+    "period": "2026-05-01",
+    "bill_rate": 90.41,
+    "pay_rate": 70.0,
+    "margin": 20.41,
+    "margin_pct": 22.6
+  },
+  {
+    "id": 162,
+    "contractor_id": 59,
+    "period": "2026-04-01",
+    "bill_rate": 90.41,
+    "pay_rate": 70.0,
+    "margin": 20.41,
+    "margin_pct": 22.6
+  },
+  {
+    "id": 163,
+    "contractor_id": 62,
+    "period": "2026-09-01",
+    "bill_rate": 168.81,
+    "pay_rate": 105.0,
+    "margin": 63.81,
+    "margin_pct": 37.8
+  },
+  {
+    "id": 164,
+    "contractor_id": 62,
+    "period": "2026-08-01",
+    "bill_rate": 168.81,
+    "pay_rate": 105.0,
+    "margin": 63.81,
+    "margin_pct": 37.8
+  },
+  {
+    "id": 165,
+    "contractor_id": 62,
+    "period": "2026-07-01",
+    "bill_rate": 168.81,
+    "pay_rate": 105.0,
+    "margin": 63.81,
+    "margin_pct": 37.8
+  },
+  {
+    "id": 166,
+    "contractor_id": 62,
+    "period": "2026-06-01",
+    "bill_rate": 168.81,
+    "pay_rate": 105.0,
+    "margin": 63.81,
+    "margin_pct": 37.8
+  },
+  {
+    "id": 167,
+    "contractor_id": 62,
+    "period": "2026-05-01",
+    "bill_rate": 168.81,
+    "pay_rate": 105.0,
+    "margin": 63.81,
+    "margin_pct": 37.8
+  },
+  {
+    "id": 168,
+    "contractor_id": 62,
+    "period": "2026-04-01",
+    "bill_rate": 168.81,
+    "pay_rate": 105.0,
+    "margin": 63.81,
+    "margin_pct": 37.8
+  },
+  {
+    "id": 169,
+    "contractor_id": 63,
+    "period": "2026-09-01",
+    "bill_rate": 116.12,
+    "pay_rate": 95.0,
+    "margin": 21.12,
+    "margin_pct": 18.2
+  },
+  {
+    "id": 170,
+    "contractor_id": 63,
+    "period": "2026-08-01",
+    "bill_rate": 116.12,
+    "pay_rate": 95.0,
+    "margin": 21.12,
+    "margin_pct": 18.2
+  },
+  {
+    "id": 171,
+    "contractor_id": 63,
+    "period": "2026-07-01",
+    "bill_rate": 116.12,
+    "pay_rate": 95.0,
+    "margin": 21.12,
+    "margin_pct": 18.2
+  },
+  {
+    "id": 172,
+    "contractor_id": 63,
+    "period": "2026-06-01",
+    "bill_rate": 116.12,
+    "pay_rate": 95.0,
+    "margin": 21.12,
+    "margin_pct": 18.2
+  },
+  {
+    "id": 173,
+    "contractor_id": 63,
+    "period": "2026-05-01",
+    "bill_rate": 116.12,
+    "pay_rate": 95.0,
+    "margin": 21.12,
+    "margin_pct": 18.2
+  },
+  {
+    "id": 174,
+    "contractor_id": 63,
+    "period": "2026-04-01",
+    "bill_rate": 116.12,
+    "pay_rate": 95.0,
+    "margin": 21.12,
+    "margin_pct": 18.2
+  },
+  {
+    "id": 175,
+    "contractor_id": 66,
+    "period": "2026-09-01",
+    "bill_rate": 109.09,
+    "pay_rate": 67.0,
+    "margin": 42.09,
+    "margin_pct": 38.6
+  },
+  {
+    "id": 176,
+    "contractor_id": 66,
+    "period": "2026-08-01",
+    "bill_rate": 109.09,
+    "pay_rate": 67.0,
+    "margin": 42.09,
+    "margin_pct": 38.6
+  },
+  {
+    "id": 177,
+    "contractor_id": 66,
+    "period": "2026-07-01",
+    "bill_rate": 109.09,
+    "pay_rate": 67.0,
+    "margin": 42.09,
+    "margin_pct": 38.6
+  },
+  {
+    "id": 178,
+    "contractor_id": 66,
+    "period": "2026-06-01",
+    "bill_rate": 109.09,
+    "pay_rate": 67.0,
+    "margin": 42.09,
+    "margin_pct": 38.6
+  },
+  {
+    "id": 179,
+    "contractor_id": 66,
+    "period": "2026-05-01",
+    "bill_rate": 109.09,
+    "pay_rate": 67.0,
+    "margin": 42.09,
+    "margin_pct": 38.6
+  },
+  {
+    "id": 180,
+    "contractor_id": 66,
+    "period": "2026-04-01",
+    "bill_rate": 109.09,
+    "pay_rate": 67.0,
+    "margin": 42.09,
+    "margin_pct": 38.6
+  },
+  {
+    "id": 181,
+    "contractor_id": 68,
+    "period": "2026-09-01",
+    "bill_rate": 193.08,
+    "pay_rate": 127.0,
+    "margin": 66.08,
+    "margin_pct": 34.2
+  },
+  {
+    "id": 182,
+    "contractor_id": 68,
+    "period": "2026-08-01",
+    "bill_rate": 193.08,
+    "pay_rate": 127.0,
+    "margin": 66.08,
+    "margin_pct": 34.2
+  },
+  {
+    "id": 183,
+    "contractor_id": 68,
+    "period": "2026-07-01",
+    "bill_rate": 193.08,
+    "pay_rate": 127.0,
+    "margin": 66.08,
+    "margin_pct": 34.2
+  },
+  {
+    "id": 184,
+    "contractor_id": 68,
+    "period": "2026-06-01",
+    "bill_rate": 193.08,
+    "pay_rate": 127.0,
+    "margin": 66.08,
+    "margin_pct": 34.2
+  },
+  {
+    "id": 185,
+    "contractor_id": 68,
+    "period": "2026-05-01",
+    "bill_rate": 193.08,
+    "pay_rate": 127.0,
+    "margin": 66.08,
+    "margin_pct": 34.2
+  },
+  {
+    "id": 186,
+    "contractor_id": 68,
+    "period": "2026-04-01",
+    "bill_rate": 193.08,
+    "pay_rate": 127.0,
+    "margin": 66.08,
+    "margin_pct": 34.2
+  },
+  {
+    "id": 187,
+    "contractor_id": 69,
+    "period": "2026-09-01",
+    "bill_rate": 96.79,
+    "pay_rate": 62.0,
+    "margin": 34.79,
+    "margin_pct": 35.9
+  },
+  {
+    "id": 188,
+    "contractor_id": 69,
+    "period": "2026-08-01",
+    "bill_rate": 96.79,
+    "pay_rate": 62.0,
+    "margin": 34.79,
+    "margin_pct": 35.9
+  },
+  {
+    "id": 189,
+    "contractor_id": 69,
+    "period": "2026-07-01",
+    "bill_rate": 96.79,
+    "pay_rate": 62.0,
+    "margin": 34.79,
+    "margin_pct": 35.9
+  },
+  {
+    "id": 190,
+    "contractor_id": 69,
+    "period": "2026-06-01",
+    "bill_rate": 96.79,
+    "pay_rate": 62.0,
+    "margin": 34.79,
+    "margin_pct": 35.9
+  },
+  {
+    "id": 191,
+    "contractor_id": 69,
+    "period": "2026-05-01",
+    "bill_rate": 96.79,
+    "pay_rate": 62.0,
+    "margin": 34.79,
+    "margin_pct": 35.9
+  },
+  {
+    "id": 192,
+    "contractor_id": 69,
+    "period": "2026-04-01",
+    "bill_rate": 96.79,
+    "pay_rate": 62.0,
+    "margin": 34.79,
+    "margin_pct": 35.9
+  },
+  {
+    "id": 193,
+    "contractor_id": 70,
+    "period": "2026-09-01",
+    "bill_rate": 166.41,
+    "pay_rate": 108.0,
+    "margin": 58.41,
+    "margin_pct": 35.1
+  },
+  {
+    "id": 194,
+    "contractor_id": 70,
+    "period": "2026-08-01",
+    "bill_rate": 166.41,
+    "pay_rate": 108.0,
+    "margin": 58.41,
+    "margin_pct": 35.1
+  },
+  {
+    "id": 195,
+    "contractor_id": 70,
+    "period": "2026-07-01",
+    "bill_rate": 166.41,
+    "pay_rate": 108.0,
+    "margin": 58.41,
+    "margin_pct": 35.1
+  },
+  {
+    "id": 196,
+    "contractor_id": 70,
+    "period": "2026-06-01",
+    "bill_rate": 166.41,
+    "pay_rate": 108.0,
+    "margin": 58.41,
+    "margin_pct": 35.1
+  },
+  {
+    "id": 197,
+    "contractor_id": 70,
+    "period": "2026-05-01",
+    "bill_rate": 166.41,
+    "pay_rate": 108.0,
+    "margin": 58.41,
+    "margin_pct": 35.1
+  },
+  {
+    "id": 198,
+    "contractor_id": 70,
+    "period": "2026-04-01",
+    "bill_rate": 166.41,
+    "pay_rate": 108.0,
+    "margin": 58.41,
+    "margin_pct": 35.1
+  },
+  {
+    "id": 199,
+    "contractor_id": 71,
+    "period": "2026-09-01",
+    "bill_rate": 164.03,
+    "pay_rate": 117.0,
+    "margin": 47.03,
+    "margin_pct": 28.7
+  },
+  {
+    "id": 200,
+    "contractor_id": 71,
+    "period": "2026-08-01",
+    "bill_rate": 164.03,
+    "pay_rate": 117.0,
+    "margin": 47.03,
+    "margin_pct": 28.7
+  },
+  {
+    "id": 201,
+    "contractor_id": 71,
+    "period": "2026-07-01",
+    "bill_rate": 164.03,
+    "pay_rate": 117.0,
+    "margin": 47.03,
+    "margin_pct": 28.7
+  },
+  {
+    "id": 202,
+    "contractor_id": 71,
+    "period": "2026-06-01",
+    "bill_rate": 164.03,
+    "pay_rate": 117.0,
+    "margin": 47.03,
+    "margin_pct": 28.7
+  },
+  {
+    "id": 203,
+    "contractor_id": 71,
+    "period": "2026-05-01",
+    "bill_rate": 164.03,
+    "pay_rate": 117.0,
+    "margin": 47.03,
+    "margin_pct": 28.7
+  },
+  {
+    "id": 204,
+    "contractor_id": 71,
+    "period": "2026-04-01",
+    "bill_rate": 164.03,
+    "pay_rate": 117.0,
+    "margin": 47.03,
+    "margin_pct": 28.7
+  },
+  {
+    "id": 205,
+    "contractor_id": 72,
+    "period": "2026-09-01",
+    "bill_rate": 100.21,
+    "pay_rate": 64.0,
+    "margin": 36.21,
+    "margin_pct": 36.1
+  },
+  {
+    "id": 206,
+    "contractor_id": 72,
+    "period": "2026-08-01",
+    "bill_rate": 100.21,
+    "pay_rate": 64.0,
+    "margin": 36.21,
+    "margin_pct": 36.1
+  },
+  {
+    "id": 207,
+    "contractor_id": 72,
+    "period": "2026-07-01",
+    "bill_rate": 100.21,
+    "pay_rate": 64.0,
+    "margin": 36.21,
+    "margin_pct": 36.1
+  },
+  {
+    "id": 208,
+    "contractor_id": 72,
+    "period": "2026-06-01",
+    "bill_rate": 100.21,
+    "pay_rate": 64.0,
+    "margin": 36.21,
+    "margin_pct": 36.1
+  },
+  {
+    "id": 209,
+    "contractor_id": 72,
+    "period": "2026-05-01",
+    "bill_rate": 100.21,
+    "pay_rate": 64.0,
+    "margin": 36.21,
+    "margin_pct": 36.1
+  },
+  {
+    "id": 210,
+    "contractor_id": 72,
+    "period": "2026-04-01",
+    "bill_rate": 100.21,
+    "pay_rate": 64.0,
+    "margin": 36.21,
+    "margin_pct": 36.1
+  },
+  {
+    "id": 211,
+    "contractor_id": 73,
+    "period": "2026-09-01",
+    "bill_rate": 115.46,
+    "pay_rate": 77.0,
+    "margin": 38.46,
+    "margin_pct": 33.3
+  },
+  {
+    "id": 212,
+    "contractor_id": 73,
+    "period": "2026-08-01",
+    "bill_rate": 115.46,
+    "pay_rate": 77.0,
+    "margin": 38.46,
+    "margin_pct": 33.3
+  },
+  {
+    "id": 213,
+    "contractor_id": 73,
+    "period": "2026-07-01",
+    "bill_rate": 115.46,
+    "pay_rate": 77.0,
+    "margin": 38.46,
+    "margin_pct": 33.3
+  },
+  {
+    "id": 214,
+    "contractor_id": 73,
+    "period": "2026-06-01",
+    "bill_rate": 115.46,
+    "pay_rate": 77.0,
+    "margin": 38.46,
+    "margin_pct": 33.3
+  },
+  {
+    "id": 215,
+    "contractor_id": 73,
+    "period": "2026-05-01",
+    "bill_rate": 115.46,
+    "pay_rate": 77.0,
+    "margin": 38.46,
+    "margin_pct": 33.3
+  },
+  {
+    "id": 216,
+    "contractor_id": 73,
+    "period": "2026-04-01",
+    "bill_rate": 115.46,
+    "pay_rate": 77.0,
+    "margin": 38.46,
+    "margin_pct": 33.3
+  },
+  {
+    "id": 217,
+    "contractor_id": 74,
+    "period": "2026-09-01",
+    "bill_rate": 168.25,
+    "pay_rate": 106.0,
+    "margin": 62.25,
+    "margin_pct": 37.0
+  },
+  {
+    "id": 218,
+    "contractor_id": 74,
+    "period": "2026-08-01",
+    "bill_rate": 168.25,
+    "pay_rate": 106.0,
+    "margin": 62.25,
+    "margin_pct": 37.0
+  },
+  {
+    "id": 219,
+    "contractor_id": 74,
+    "period": "2026-07-01",
+    "bill_rate": 168.25,
+    "pay_rate": 106.0,
+    "margin": 62.25,
+    "margin_pct": 37.0
+  },
+  {
+    "id": 220,
+    "contractor_id": 74,
+    "period": "2026-06-01",
+    "bill_rate": 168.25,
+    "pay_rate": 106.0,
+    "margin": 62.25,
+    "margin_pct": 37.0
+  },
+  {
+    "id": 221,
+    "contractor_id": 74,
+    "period": "2026-05-01",
+    "bill_rate": 168.25,
+    "pay_rate": 106.0,
+    "margin": 62.25,
+    "margin_pct": 37.0
+  },
+  {
+    "id": 222,
+    "contractor_id": 74,
+    "period": "2026-04-01",
+    "bill_rate": 168.25,
+    "pay_rate": 106.0,
+    "margin": 62.25,
+    "margin_pct": 37.0
+  },
+  {
+    "id": 223,
+    "contractor_id": 75,
+    "period": "2026-09-01",
+    "bill_rate": 93.18,
+    "pay_rate": 64.0,
+    "margin": 29.18,
+    "margin_pct": 31.3
+  },
+  {
+    "id": 224,
+    "contractor_id": 75,
+    "period": "2026-08-01",
+    "bill_rate": 93.18,
+    "pay_rate": 64.0,
+    "margin": 29.18,
+    "margin_pct": 31.3
+  },
+  {
+    "id": 225,
+    "contractor_id": 75,
+    "period": "2026-07-01",
+    "bill_rate": 93.18,
+    "pay_rate": 64.0,
+    "margin": 29.18,
+    "margin_pct": 31.3
+  },
+  {
+    "id": 226,
+    "contractor_id": 75,
+    "period": "2026-06-01",
+    "bill_rate": 93.18,
+    "pay_rate": 64.0,
+    "margin": 29.18,
+    "margin_pct": 31.3
+  },
+  {
+    "id": 227,
+    "contractor_id": 75,
+    "period": "2026-05-01",
+    "bill_rate": 93.18,
+    "pay_rate": 64.0,
+    "margin": 29.18,
+    "margin_pct": 31.3
+  },
+  {
+    "id": 228,
+    "contractor_id": 75,
+    "period": "2026-04-01",
+    "bill_rate": 93.18,
+    "pay_rate": 64.0,
+    "margin": 29.18,
+    "margin_pct": 31.3
+  },
+  {
+    "id": 229,
+    "contractor_id": 80,
+    "period": "2026-09-01",
+    "bill_rate": 79.37,
+    "pay_rate": 61.0,
+    "margin": 18.37,
+    "margin_pct": 23.1
+  },
+  {
+    "id": 230,
+    "contractor_id": 80,
+    "period": "2026-08-01",
+    "bill_rate": 79.37,
+    "pay_rate": 61.0,
+    "margin": 18.37,
+    "margin_pct": 23.1
+  },
+  {
+    "id": 231,
+    "contractor_id": 80,
+    "period": "2026-07-01",
+    "bill_rate": 79.37,
+    "pay_rate": 61.0,
+    "margin": 18.37,
+    "margin_pct": 23.1
+  },
+  {
+    "id": 232,
+    "contractor_id": 80,
+    "period": "2026-06-01",
+    "bill_rate": 79.37,
+    "pay_rate": 61.0,
+    "margin": 18.37,
+    "margin_pct": 23.1
+  },
+  {
+    "id": 233,
+    "contractor_id": 80,
+    "period": "2026-05-01",
+    "bill_rate": 79.37,
+    "pay_rate": 61.0,
+    "margin": 18.37,
+    "margin_pct": 23.1
+  },
+  {
+    "id": 234,
+    "contractor_id": 80,
+    "period": "2026-04-01",
+    "bill_rate": 79.37,
+    "pay_rate": 61.0,
+    "margin": 18.37,
+    "margin_pct": 23.1
+  }
+]

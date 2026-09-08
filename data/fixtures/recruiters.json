@@ -1,0 +1,44 @@
+[
+  {
+    "id": 1,
+    "name": "Alex Rivera",
+    "email": "alex.rivera@company.com",
+    "team": "Tech",
+    "user_id": null
+  },
+  {
+    "id": 2,
+    "name": "Priya Sharma",
+    "email": "priya.sharma@company.com",
+    "team": "Finance",
+    "user_id": null
+  },
+  {
+    "id": 3,
+    "name": "Marcus Lee",
+    "email": "marcus.lee@company.com",
+    "team": "Healthcare",
+    "user_id": null
+  },
+  {
+    "id": 4,
+    "name": "Dana Kim",
+    "email": "dana.kim@company.com",
+    "team": "Tech",
+    "user_id": null
+  },
+  {
+    "id": 5,
+    "name": "Jordan Patel",
+    "email": "jordan.patel@company.com",
+    "team": "Enterprise",
+    "user_id": null
+  },
+  {
+    "id": 6,
+    "name": "Sofia Martinez",
+    "email": "sofia.martinez@company.com",
+    "team": "Emerging",
+    "user_id": null
+  }
+]

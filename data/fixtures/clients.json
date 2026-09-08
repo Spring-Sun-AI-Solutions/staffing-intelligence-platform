@@ -1,0 +1,122 @@
+[
+  {
+    "id": 1,
+    "name": "Meridian Financial",
+    "industry": "Healthcare",
+    "contact_name": "Maria Dubois",
+    "contact_email": "contact1@meridianfinancial.com",
+    "status": "active",
+    "req_volume": 3,
+    "margin_pct": 9.6
+  },
+  {
+    "id": 2,
+    "name": "Northwind Health",
+    "industry": "Healthcare",
+    "contact_name": "Kwame Chen",
+    "contact_email": "contact2@northwindhealth.com",
+    "status": "active",
+    "req_volume": 0,
+    "margin_pct": 6.8
+  },
+  {
+    "id": 3,
+    "name": "Vertex Technologies",
+    "industry": "Retail",
+    "contact_name": "Sofia Singh",
+    "contact_email": "contact3@vertextechnologies.com",
+    "status": "active",
+    "req_volume": 8,
+    "margin_pct": 11.2
+  },
+  {
+    "id": 4,
+    "name": "Summit Retail Group",
+    "industry": "Logistics",
+    "contact_name": "Ana Tanaka",
+    "contact_email": "contact4@summitretailgroup.com",
+    "status": "active",
+    "req_volume": 4,
+    "margin_pct": 27.0
+  },
+  {
+    "id": 5,
+    "name": "Atlas Manufacturing",
+    "industry": "Financial Services",
+    "contact_name": "Priyanka Rossi",
+    "contact_email": "contact5@atlasmanufacturing.com",
+    "status": "active",
+    "req_volume": 4,
+    "margin_pct": 10.0
+  },
+  {
+    "id": 6,
+    "name": "Pinnacle Insurance",
+    "industry": "Insurance",
+    "contact_name": "Carlos Chen",
+    "contact_email": "contact6@pinnacleinsurance.com",
+    "status": "active",
+    "req_volume": 5,
+    "margin_pct": 28.0
+  },
+  {
+    "id": 7,
+    "name": "Coastal Telecom",
+    "industry": "Manufacturing",
+    "contact_name": "Wei Dubois",
+    "contact_email": "contact7@coastaltelecom.com",
+    "status": "active",
+    "req_volume": 1,
+    "margin_pct": 31.3
+  },
+  {
+    "id": 8,
+    "name": "BrightPath Energy",
+    "industry": "Telecom",
+    "contact_name": "Aisha Mueller",
+    "contact_email": "contact8@brightpathenergy.com",
+    "status": "active",
+    "req_volume": 10,
+    "margin_pct": 22.1
+  },
+  {
+    "id": 9,
+    "name": "Horizon Bank",
+    "industry": "Insurance",
+    "contact_name": "Hassan Rodriguez",
+    "contact_email": "contact9@horizonbank.com",
+    "status": "active",
+    "req_volume": 0,
+    "margin_pct": 23.2
+  },
+  {
+    "id": 10,
+    "name": "Cedar Analytics",
+    "industry": "Manufacturing",
+    "contact_name": "Aisha Costa",
+    "contact_email": "contact10@cedaranalytics.com",
+    "status": "active",
+    "req_volume": 1,
+    "margin_pct": 15.9
+  },
+  {
+    "id": 11,
+    "name": "Ironclad Logistics",
+    "industry": "Energy",
+    "contact_name": "Diego Patel",
+    "contact_email": "contact11@ironcladlogistics.com",
+    "status": "active",
+    "req_volume": 3,
+    "margin_pct": 23.4
+  },
+  {
+    "id": 12,
+    "name": "Lumen Health Systems",
+    "industry": "Healthcare",
+    "contact_name": "Nikolai Okafor",
+    "contact_email": "contact12@lumenhealthsystems.com",
+    "status": "active",
+    "req_volume": 11,
+    "margin_pct": 12.4
+  }
+]

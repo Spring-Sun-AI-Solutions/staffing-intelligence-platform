@@ -32,11 +32,6 @@ def upgrade() -> None:
         name="timesheetstatusenum"
     )
 
-    visa_enum.create(op.get_bind(), checkfirst=True)
-    job_status_enum.create(op.get_bind(), checkfirst=True)
-    placement_stage_enum.create(op.get_bind(), checkfirst=True)
-    timesheet_status_enum.create(op.get_bind(), checkfirst=True)
-
     # ── clients ────────────────────────────────────────────────────────────────
     op.create_table(
         "clients",

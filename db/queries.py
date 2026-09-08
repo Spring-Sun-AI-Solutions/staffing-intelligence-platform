@@ -49,9 +49,10 @@ def get_candidates(active_only: bool = False) -> pd.DataFrame:
             q = q.where(Candidate.is_active_contractor.is_(True))
         rows = session.execute(q).scalars().all()
         return _to_df(rows, columns=[
-            "id", "name", "email", "skills", "visa_status", "location",
+            "id", "name", "email", "phone", "skills", "visa_status", "location",
             "yoe", "rate", "is_active_contractor", "attrition_risk_score",
-            "resume_path", "created_at",
+            "tenure_days", "comms_gap_days", "overtime_pct",
+            "client_feedback_score", "resume_path", "created_at",
         ])
     finally:
         session.close()

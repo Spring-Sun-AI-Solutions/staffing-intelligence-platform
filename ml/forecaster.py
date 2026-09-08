@@ -91,7 +91,7 @@ def forecast_revenue(months: int = 12, client_id: Optional[int] = None) -> pd.Da
 
     # Prepare Prophet input
     df = historical.rename(columns={"month": "ds", "revenue": "y"})
-    df["ds"] = pd.to_datetime(df["ds"])
+    df["ds"] = pd.to_datetime(df["ds"]).dt.tz_localize(None)
     df = df[["ds", "y"]].dropna()
 
     # Train Prophet

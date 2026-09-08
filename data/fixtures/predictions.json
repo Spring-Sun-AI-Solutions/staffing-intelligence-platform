@@ -1,0 +1,1186 @@
+[
+  {
+    "id": 1,
+    "entity_type": "candidate",
+    "entity_id": 12,
+    "model_name": "submission_success",
+    "score": 0.519,
+    "features": {
+      "match_score": 0.938,
+      "skill_overlap": 0.578,
+      "yoe": 2.0
+    },
+    "created_at": "2026-08-17 21:47:48"
+  },
+  {
+    "id": 2,
+    "entity_type": "candidate",
+    "entity_id": 12,
+    "model_name": "attrition_risk",
+    "score": 0.915,
+    "features": {
+      "match_score": 0.909,
+      "skill_overlap": 0.327,
+      "yoe": 2.0
+    },
+    "created_at": "2026-08-15 21:47:48"
+  },
+  {
+    "id": 3,
+    "entity_type": "candidate",
+    "entity_id": 20,
+    "model_name": "submission_success",
+    "score": 0.088,
+    "features": {
+      "match_score": 0.909,
+      "skill_overlap": 0.617,
+      "yoe": 6.9
+    },
+    "created_at": "2026-08-30 21:47:48"
+  },
+  {
+    "id": 4,
+    "entity_type": "candidate",
+    "entity_id": 20,
+    "model_name": "attrition_risk",
+    "score": 0.483,
+    "features": {
+      "match_score": 0.494,
+      "skill_overlap": 0.488,
+      "yoe": 6.9
+    },
+    "created_at": "2026-09-06 21:47:48"
+  },
+  {
+    "id": 5,
+    "entity_type": "candidate",
+    "entity_id": 2,
+    "model_name": "submission_success",
+    "score": 0.827,
+    "features": {
+      "match_score": 0.442,
+      "skill_overlap": 0.29,
+      "yoe": 13.8
+    },
+    "created_at": "2026-08-18 21:47:48"
+  },
+  {
+    "id": 6,
+    "entity_type": "candidate",
+    "entity_id": 2,
+    "model_name": "attrition_risk",
+    "score": 0.441,
+    "features": {
+      "match_score": 0.31,
+      "skill_overlap": 0.836,
+      "yoe": 13.8
+    },
+    "created_at": "2026-08-20 21:47:48"
+  },
+  {
+    "id": 7,
+    "entity_type": "candidate",
+    "entity_id": 64,
+    "model_name": "submission_success",
+    "score": 0.158,
+    "features": {
+      "match_score": 0.813,
+      "skill_overlap": 0.207,
+      "yoe": 4.5
+    },
+    "created_at": "2026-09-06 21:47:48"
+  },
+  {
+    "id": 8,
+    "entity_type": "candidate",
+    "entity_id": 64,
+    "model_name": "attrition_risk",
+    "score": 0.573,
+    "features": {
+      "match_score": 0.749,
+      "skill_overlap": 0.751,
+      "yoe": 4.5
+    },
+    "created_at": "2026-09-03 21:47:48"
+  },
+  {
+    "id": 9,
+    "entity_type": "candidate",
+    "entity_id": 28,
+    "model_name": "submission_success",
+    "score": 0.384,
+    "features": {
+      "match_score": 0.358,
+      "skill_overlap": 0.326,
+      "yoe": 8.9
+    },
+    "created_at": "2026-09-05 21:47:48"
+  },
+  {
+    "id": 10,
+    "entity_type": "candidate",
+    "entity_id": 28,
+    "model_name": "attrition_risk",
+    "score": 0.667,
+    "features": {
+      "match_score": 0.52,
+      "skill_overlap": 0.976,
+      "yoe": 8.9
+    },
+    "created_at": "2026-08-14 21:47:48"
+  },
+  {
+    "id": 11,
+    "entity_type": "candidate",
+    "entity_id": 44,
+    "model_name": "submission_success",
+    "score": 0.613,
+    "features": {
+      "match_score": 0.339,
+      "skill_overlap": 0.716,
+      "yoe": 3.8
+    },
+    "created_at": "2026-08-16 21:47:48"
+  },
+  {
+    "id": 12,
+    "entity_type": "candidate",
+    "entity_id": 44,
+    "model_name": "attrition_risk",
+    "score": 0.533,
+    "features": {
+      "match_score": 0.37,
+      "skill_overlap": 0.59,
+      "yoe": 3.8
+    },
+    "created_at": "2026-08-28 21:47:48"
+  },
+  {
+    "id": 13,
+    "entity_type": "candidate",
+    "entity_id": 54,
+    "model_name": "submission_success",
+    "score": 0.934,
+    "features": {
+      "match_score": 0.813,
+      "skill_overlap": 0.805,
+      "yoe": 2.5
+    },
+    "created_at": "2026-08-13 21:47:48"
+  },
+  {
+    "id": 14,
+    "entity_type": "candidate",
+    "entity_id": 54,
+    "model_name": "attrition_risk",
+    "score": 0.853,
+    "features": {
+      "match_score": 0.777,
+      "skill_overlap": 0.217,
+      "yoe": 2.5
+    },
+    "created_at": "2026-08-26 21:47:48"
+  },
+  {
+    "id": 15,
+    "entity_type": "candidate",
+    "entity_id": 40,
+    "model_name": "submission_success",
+    "score": 0.372,
+    "features": {
+      "match_score": 0.388,
+      "skill_overlap": 0.919,
+      "yoe": 3.2
+    },
+    "created_at": "2026-08-23 21:47:48"
+  },
+  {
+    "id": 16,
+    "entity_type": "candidate",
+    "entity_id": 40,
+    "model_name": "attrition_risk",
+    "score": 0.686,
+    "features": {
+      "match_score": 0.663,
+      "skill_overlap": 0.634,
+      "yoe": 3.2
+    },
+    "created_at": "2026-08-23 21:47:48"
+  },
+  {
+    "id": 17,
+    "entity_type": "candidate",
+    "entity_id": 77,
+    "model_name": "submission_success",
+    "score": 0.221,
+    "features": {
+      "match_score": 0.421,
+      "skill_overlap": 0.478,
+      "yoe": 6.1
+    },
+    "created_at": "2026-08-15 21:47:48"
+  },
+  {
+    "id": 18,
+    "entity_type": "candidate",
+    "entity_id": 77,
+    "model_name": "attrition_risk",
+    "score": 0.472,
+    "features": {
+      "match_score": 0.864,
+      "skill_overlap": 0.679,
+      "yoe": 6.1
+    },
+    "created_at": "2026-08-11 21:47:48"
+  },
+  {
+    "id": 19,
+    "entity_type": "candidate",
+    "entity_id": 48,
+    "model_name": "submission_success",
+    "score": 0.549,
+    "features": {
+      "match_score": 0.345,
+      "skill_overlap": 0.324,
+      "yoe": 3.2
+    },
+    "created_at": "2026-08-29 21:47:48"
+  },
+  {
+    "id": 20,
+    "entity_type": "candidate",
+    "entity_id": 48,
+    "model_name": "attrition_risk",
+    "score": 0.787,
+    "features": {
+      "match_score": 0.652,
+      "skill_overlap": 0.563,
+      "yoe": 3.2
+    },
+    "created_at": "2026-08-14 21:47:48"
+  },
+  {
+    "id": 21,
+    "entity_type": "candidate",
+    "entity_id": 60,
+    "model_name": "submission_success",
+    "score": 0.624,
+    "features": {
+      "match_score": 0.546,
+      "skill_overlap": 0.348,
+      "yoe": 5.5
+    },
+    "created_at": "2026-09-07 21:47:48"
+  },
+  {
+    "id": 22,
+    "entity_type": "candidate",
+    "entity_id": 60,
+    "model_name": "attrition_risk",
+    "score": 0.608,
+    "features": {
+      "match_score": 0.537,
+      "skill_overlap": 0.696,
+      "yoe": 5.5
+    },
+    "created_at": "2026-08-28 21:47:48"
+  },
+  {
+    "id": 23,
+    "entity_type": "candidate",
+    "entity_id": 5,
+    "model_name": "submission_success",
+    "score": 0.699,
+    "features": {
+      "match_score": 0.728,
+      "skill_overlap": 0.631,
+      "yoe": 17.1
+    },
+    "created_at": "2026-08-26 21:47:48"
+  },
+  {
+    "id": 24,
+    "entity_type": "candidate",
+    "entity_id": 5,
+    "model_name": "attrition_risk",
+    "score": 0.221,
+    "features": {
+      "match_score": 0.744,
+      "skill_overlap": 0.813,
+      "yoe": 17.1
+    },
+    "created_at": "2026-09-03 21:47:48"
+  },
+  {
+    "id": 25,
+    "entity_type": "candidate",
+    "entity_id": 43,
+    "model_name": "submission_success",
+    "score": 0.602,
+    "features": {
+      "match_score": 0.51,
+      "skill_overlap": 0.713,
+      "yoe": 3.7
+    },
+    "created_at": "2026-09-04 21:47:48"
+  },
+  {
+    "id": 26,
+    "entity_type": "candidate",
+    "entity_id": 43,
+    "model_name": "attrition_risk",
+    "score": 0.137,
+    "features": {
+      "match_score": 0.728,
+      "skill_overlap": 0.235,
+      "yoe": 3.7
+    },
+    "created_at": "2026-08-08 21:47:48"
+  },
+  {
+    "id": 27,
+    "entity_type": "candidate",
+    "entity_id": 11,
+    "model_name": "submission_success",
+    "score": 0.167,
+    "features": {
+      "match_score": 0.868,
+      "skill_overlap": 0.362,
+      "yoe": 3.8
+    },
+    "created_at": "2026-08-23 21:47:48"
+  },
+  {
+    "id": 28,
+    "entity_type": "candidate",
+    "entity_id": 11,
+    "model_name": "attrition_risk",
+    "score": 0.222,
+    "features": {
+      "match_score": 0.321,
+      "skill_overlap": 0.713,
+      "yoe": 3.8
+    },
+    "created_at": "2026-08-26 21:47:48"
+  },
+  {
+    "id": 29,
+    "entity_type": "candidate",
+    "entity_id": 19,
+    "model_name": "submission_success",
+    "score": 0.642,
+    "features": {
+      "match_score": 0.642,
+      "skill_overlap": 0.761,
+      "yoe": 15.7
+    },
+    "created_at": "2026-08-30 21:47:48"
+  },
+  {
+    "id": 30,
+    "entity_type": "candidate",
+    "entity_id": 19,
+    "model_name": "attrition_risk",
+    "score": 0.094,
+    "features": {
+      "match_score": 0.443,
+      "skill_overlap": 0.774,
+      "yoe": 15.7
+    },
+    "created_at": "2026-09-07 21:47:48"
+  },
+  {
+    "id": 31,
+    "entity_type": "candidate",
+    "entity_id": 8,
+    "model_name": "submission_success",
+    "score": 0.887,
+    "features": {
+      "match_score": 0.436,
+      "skill_overlap": 0.593,
+      "yoe": 9.3
+    },
+    "created_at": "2026-08-10 21:47:48"
+  },
+  {
+    "id": 32,
+    "entity_type": "candidate",
+    "entity_id": 8,
+    "model_name": "attrition_risk",
+    "score": 0.799,
+    "features": {
+      "match_score": 0.604,
+      "skill_overlap": 0.711,
+      "yoe": 9.3
+    },
+    "created_at": "2026-08-27 21:47:48"
+  },
+  {
+    "id": 33,
+    "entity_type": "candidate",
+    "entity_id": 35,
+    "model_name": "submission_success",
+    "score": 0.552,
+    "features": {
+      "match_score": 0.91,
+      "skill_overlap": 0.533,
+      "yoe": 17.4
+    },
+    "created_at": "2026-08-27 21:47:48"
+  },
+  {
+    "id": 34,
+    "entity_type": "candidate",
+    "entity_id": 35,
+    "model_name": "attrition_risk",
+    "score": 0.765,
+    "features": {
+      "match_score": 0.338,
+      "skill_overlap": 0.694,
+      "yoe": 17.4
+    },
+    "created_at": "2026-08-22 21:47:48"
+  },
+  {
+    "id": 35,
+    "entity_type": "candidate",
+    "entity_id": 50,
+    "model_name": "submission_success",
+    "score": 0.087,
+    "features": {
+      "match_score": 0.346,
+      "skill_overlap": 0.443,
+      "yoe": 5.5
+    },
+    "created_at": "2026-08-08 21:47:48"
+  },
+  {
+    "id": 36,
+    "entity_type": "candidate",
+    "entity_id": 50,
+    "model_name": "attrition_risk",
+    "score": 0.244,
+    "features": {
+      "match_score": 0.638,
+      "skill_overlap": 0.281,
+      "yoe": 5.5
+    },
+    "created_at": "2026-08-31 21:47:48"
+  },
+  {
+    "id": 37,
+    "entity_type": "candidate",
+    "entity_id": 26,
+    "model_name": "submission_success",
+    "score": 0.528,
+    "features": {
+      "match_score": 0.423,
+      "skill_overlap": 0.621,
+      "yoe": 17.8
+    },
+    "created_at": "2026-08-31 21:47:48"
+  },
+  {
+    "id": 38,
+    "entity_type": "candidate",
+    "entity_id": 26,
+    "model_name": "attrition_risk",
+    "score": 0.563,
+    "features": {
+      "match_score": 0.916,
+      "skill_overlap": 0.647,
+      "yoe": 17.8
+    },
+    "created_at": "2026-08-21 21:47:48"
+  },
+  {
+    "id": 39,
+    "entity_type": "candidate",
+    "entity_id": 69,
+    "model_name": "submission_success",
+    "score": 0.424,
+    "features": {
+      "match_score": 0.369,
+      "skill_overlap": 0.711,
+      "yoe": 16.7
+    },
+    "created_at": "2026-08-27 21:47:48"
+  },
+  {
+    "id": 40,
+    "entity_type": "candidate",
+    "entity_id": 69,
+    "model_name": "attrition_risk",
+    "score": 0.657,
+    "features": {
+      "match_score": 0.757,
+      "skill_overlap": 0.542,
+      "yoe": 16.7
+    },
+    "created_at": "2026-09-04 21:47:48"
+  },
+  {
+    "id": 41,
+    "entity_type": "candidate",
+    "entity_id": 72,
+    "model_name": "submission_success",
+    "score": 0.2,
+    "features": {
+      "match_score": 0.417,
+      "skill_overlap": 0.521,
+      "yoe": 1.8
+    },
+    "created_at": "2026-08-28 21:47:48"
+  },
+  {
+    "id": 42,
+    "entity_type": "candidate",
+    "entity_id": 72,
+    "model_name": "attrition_risk",
+    "score": 0.642,
+    "features": {
+      "match_score": 0.647,
+      "skill_overlap": 0.68,
+      "yoe": 1.8
+    },
+    "created_at": "2026-08-09 21:47:48"
+  },
+  {
+    "id": 43,
+    "entity_type": "candidate",
+    "entity_id": 31,
+    "model_name": "submission_success",
+    "score": 0.367,
+    "features": {
+      "match_score": 0.505,
+      "skill_overlap": 0.993,
+      "yoe": 4.8
+    },
+    "created_at": "2026-08-28 21:47:48"
+  },
+  {
+    "id": 44,
+    "entity_type": "candidate",
+    "entity_id": 31,
+    "model_name": "attrition_risk",
+    "score": 0.81,
+    "features": {
+      "match_score": 0.568,
+      "skill_overlap": 0.707,
+      "yoe": 4.8
+    },
+    "created_at": "2026-08-12 21:47:48"
+  },
+  {
+    "id": 45,
+    "entity_type": "candidate",
+    "entity_id": 80,
+    "model_name": "submission_success",
+    "score": 0.703,
+    "features": {
+      "match_score": 0.695,
+      "skill_overlap": 0.651,
+      "yoe": 12.5
+    },
+    "created_at": "2026-09-01 21:47:48"
+  },
+  {
+    "id": 46,
+    "entity_type": "candidate",
+    "entity_id": 80,
+    "model_name": "attrition_risk",
+    "score": 0.388,
+    "features": {
+      "match_score": 0.658,
+      "skill_overlap": 0.796,
+      "yoe": 12.5
+    },
+    "created_at": "2026-08-27 21:47:48"
+  },
+  {
+    "id": 47,
+    "entity_type": "candidate",
+    "entity_id": 13,
+    "model_name": "submission_success",
+    "score": 0.915,
+    "features": {
+      "match_score": 0.591,
+      "skill_overlap": 0.518,
+      "yoe": 11.5
+    },
+    "created_at": "2026-08-15 21:47:48"
+  },
+  {
+    "id": 48,
+    "entity_type": "candidate",
+    "entity_id": 13,
+    "model_name": "attrition_risk",
+    "score": 0.081,
+    "features": {
+      "match_score": 0.485,
+      "skill_overlap": 0.213,
+      "yoe": 11.5
+    },
+    "created_at": "2026-09-03 21:47:48"
+  },
+  {
+    "id": 49,
+    "entity_type": "candidate",
+    "entity_id": 74,
+    "model_name": "submission_success",
+    "score": 0.944,
+    "features": {
+      "match_score": 0.496,
+      "skill_overlap": 0.44,
+      "yoe": 8.4
+    },
+    "created_at": "2026-08-31 21:47:48"
+  },
+  {
+    "id": 50,
+    "entity_type": "candidate",
+    "entity_id": 74,
+    "model_name": "attrition_risk",
+    "score": 0.243,
+    "features": {
+      "match_score": 0.505,
+      "skill_overlap": 0.817,
+      "yoe": 8.4
+    },
+    "created_at": "2026-08-08 21:47:48"
+  },
+  {
+    "id": 51,
+    "entity_type": "candidate",
+    "entity_id": 17,
+    "model_name": "submission_success",
+    "score": 0.671,
+    "features": {
+      "match_score": 0.479,
+      "skill_overlap": 0.643,
+      "yoe": 11.8
+    },
+    "created_at": "2026-08-21 21:47:48"
+  },
+  {
+    "id": 52,
+    "entity_type": "candidate",
+    "entity_id": 17,
+    "model_name": "attrition_risk",
+    "score": 0.564,
+    "features": {
+      "match_score": 0.672,
+      "skill_overlap": 0.275,
+      "yoe": 11.8
+    },
+    "created_at": "2026-08-24 21:47:48"
+  },
+  {
+    "id": 53,
+    "entity_type": "candidate",
+    "entity_id": 53,
+    "model_name": "submission_success",
+    "score": 0.37,
+    "features": {
+      "match_score": 0.39,
+      "skill_overlap": 0.494,
+      "yoe": 17.5
+    },
+    "created_at": "2026-08-20 21:47:48"
+  },
+  {
+    "id": 54,
+    "entity_type": "candidate",
+    "entity_id": 53,
+    "model_name": "attrition_risk",
+    "score": 0.275,
+    "features": {
+      "match_score": 0.467,
+      "skill_overlap": 0.44,
+      "yoe": 17.5
+    },
+    "created_at": "2026-08-20 21:47:48"
+  },
+  {
+    "id": 55,
+    "entity_type": "candidate",
+    "entity_id": 25,
+    "model_name": "submission_success",
+    "score": 0.41,
+    "features": {
+      "match_score": 0.897,
+      "skill_overlap": 0.787,
+      "yoe": 10.8
+    },
+    "created_at": "2026-08-15 21:47:48"
+  },
+  {
+    "id": 56,
+    "entity_type": "candidate",
+    "entity_id": 25,
+    "model_name": "attrition_risk",
+    "score": 0.342,
+    "features": {
+      "match_score": 0.614,
+      "skill_overlap": 0.591,
+      "yoe": 10.8
+    },
+    "created_at": "2026-08-10 21:47:48"
+  },
+  {
+    "id": 57,
+    "entity_type": "candidate",
+    "entity_id": 1,
+    "model_name": "submission_success",
+    "score": 0.671,
+    "features": {
+      "match_score": 0.675,
+      "skill_overlap": 0.926,
+      "yoe": 15.9
+    },
+    "created_at": "2026-08-19 21:47:48"
+  },
+  {
+    "id": 58,
+    "entity_type": "candidate",
+    "entity_id": 1,
+    "model_name": "attrition_risk",
+    "score": 0.628,
+    "features": {
+      "match_score": 0.324,
+      "skill_overlap": 0.847,
+      "yoe": 15.9
+    },
+    "created_at": "2026-08-26 21:47:48"
+  },
+  {
+    "id": 59,
+    "entity_type": "candidate",
+    "entity_id": 65,
+    "model_name": "submission_success",
+    "score": 0.121,
+    "features": {
+      "match_score": 0.336,
+      "skill_overlap": 0.817,
+      "yoe": 3.2
+    },
+    "created_at": "2026-08-27 21:47:48"
+  },
+  {
+    "id": 60,
+    "entity_type": "candidate",
+    "entity_id": 65,
+    "model_name": "attrition_risk",
+    "score": 0.842,
+    "features": {
+      "match_score": 0.582,
+      "skill_overlap": 0.944,
+      "yoe": 3.2
+    },
+    "created_at": "2026-09-04 21:47:48"
+  },
+  {
+    "id": 61,
+    "entity_type": "candidate",
+    "entity_id": 63,
+    "model_name": "submission_success",
+    "score": 0.833,
+    "features": {
+      "match_score": 0.447,
+      "skill_overlap": 0.722,
+      "yoe": 17.7
+    },
+    "created_at": "2026-08-19 21:47:48"
+  },
+  {
+    "id": 62,
+    "entity_type": "candidate",
+    "entity_id": 63,
+    "model_name": "attrition_risk",
+    "score": 0.886,
+    "features": {
+      "match_score": 0.712,
+      "skill_overlap": 0.706,
+      "yoe": 17.7
+    },
+    "created_at": "2026-09-06 21:47:48"
+  },
+  {
+    "id": 63,
+    "entity_type": "candidate",
+    "entity_id": 46,
+    "model_name": "submission_success",
+    "score": 0.324,
+    "features": {
+      "match_score": 0.327,
+      "skill_overlap": 0.632,
+      "yoe": 17.5
+    },
+    "created_at": "2026-09-03 21:47:48"
+  },
+  {
+    "id": 64,
+    "entity_type": "candidate",
+    "entity_id": 46,
+    "model_name": "attrition_risk",
+    "score": 0.344,
+    "features": {
+      "match_score": 0.754,
+      "skill_overlap": 0.323,
+      "yoe": 17.5
+    },
+    "created_at": "2026-08-17 21:47:48"
+  },
+  {
+    "id": 65,
+    "entity_type": "candidate",
+    "entity_id": 16,
+    "model_name": "submission_success",
+    "score": 0.708,
+    "features": {
+      "match_score": 0.555,
+      "skill_overlap": 0.556,
+      "yoe": 10.4
+    },
+    "created_at": "2026-08-19 21:47:48"
+  },
+  {
+    "id": 66,
+    "entity_type": "candidate",
+    "entity_id": 16,
+    "model_name": "attrition_risk",
+    "score": 0.568,
+    "features": {
+      "match_score": 0.359,
+      "skill_overlap": 0.546,
+      "yoe": 10.4
+    },
+    "created_at": "2026-08-13 21:47:48"
+  },
+  {
+    "id": 67,
+    "entity_type": "candidate",
+    "entity_id": 56,
+    "model_name": "submission_success",
+    "score": 0.405,
+    "features": {
+      "match_score": 0.386,
+      "skill_overlap": 0.266,
+      "yoe": 17.1
+    },
+    "created_at": "2026-08-20 21:47:48"
+  },
+  {
+    "id": 68,
+    "entity_type": "candidate",
+    "entity_id": 56,
+    "model_name": "attrition_risk",
+    "score": 0.721,
+    "features": {
+      "match_score": 0.656,
+      "skill_overlap": 0.41,
+      "yoe": 17.1
+    },
+    "created_at": "2026-08-26 21:47:48"
+  },
+  {
+    "id": 69,
+    "entity_type": "candidate",
+    "entity_id": 29,
+    "model_name": "submission_success",
+    "score": 0.502,
+    "features": {
+      "match_score": 0.803,
+      "skill_overlap": 0.304,
+      "yoe": 9.3
+    },
+    "created_at": "2026-09-03 21:47:48"
+  },
+  {
+    "id": 70,
+    "entity_type": "candidate",
+    "entity_id": 29,
+    "model_name": "attrition_risk",
+    "score": 0.483,
+    "features": {
+      "match_score": 0.429,
+      "skill_overlap": 0.516,
+      "yoe": 9.3
+    },
+    "created_at": "2026-08-20 21:47:48"
+  },
+  {
+    "id": 71,
+    "entity_type": "candidate",
+    "entity_id": 71,
+    "model_name": "submission_success",
+    "score": 0.226,
+    "features": {
+      "match_score": 0.7,
+      "skill_overlap": 0.789,
+      "yoe": 15.8
+    },
+    "created_at": "2026-08-31 21:47:48"
+  },
+  {
+    "id": 72,
+    "entity_type": "candidate",
+    "entity_id": 71,
+    "model_name": "attrition_risk",
+    "score": 0.268,
+    "features": {
+      "match_score": 0.473,
+      "skill_overlap": 0.544,
+      "yoe": 15.8
+    },
+    "created_at": "2026-08-17 21:47:48"
+  },
+  {
+    "id": 73,
+    "entity_type": "candidate",
+    "entity_id": 3,
+    "model_name": "submission_success",
+    "score": 0.882,
+    "features": {
+      "match_score": 0.358,
+      "skill_overlap": 0.737,
+      "yoe": 3.7
+    },
+    "created_at": "2026-08-25 21:47:48"
+  },
+  {
+    "id": 74,
+    "entity_type": "candidate",
+    "entity_id": 3,
+    "model_name": "attrition_risk",
+    "score": 0.379,
+    "features": {
+      "match_score": 0.424,
+      "skill_overlap": 0.476,
+      "yoe": 3.7
+    },
+    "created_at": "2026-08-18 21:47:48"
+  },
+  {
+    "id": 75,
+    "entity_type": "candidate",
+    "entity_id": 57,
+    "model_name": "submission_success",
+    "score": 0.072,
+    "features": {
+      "match_score": 0.498,
+      "skill_overlap": 0.99,
+      "yoe": 15.7
+    },
+    "created_at": "2026-08-19 21:47:48"
+  },
+  {
+    "id": 76,
+    "entity_type": "candidate",
+    "entity_id": 57,
+    "model_name": "attrition_risk",
+    "score": 0.789,
+    "features": {
+      "match_score": 0.822,
+      "skill_overlap": 0.699,
+      "yoe": 15.7
+    },
+    "created_at": "2026-08-24 21:47:48"
+  },
+  {
+    "id": 77,
+    "entity_type": "candidate",
+    "entity_id": 30,
+    "model_name": "submission_success",
+    "score": 0.09,
+    "features": {
+      "match_score": 0.832,
+      "skill_overlap": 0.36,
+      "yoe": 11.9
+    },
+    "created_at": "2026-08-27 21:47:48"
+  },
+  {
+    "id": 78,
+    "entity_type": "candidate",
+    "entity_id": 30,
+    "model_name": "attrition_risk",
+    "score": 0.19,
+    "features": {
+      "match_score": 0.774,
+      "skill_overlap": 0.269,
+      "yoe": 11.9
+    },
+    "created_at": "2026-08-15 21:47:48"
+  },
+  {
+    "id": 79,
+    "entity_type": "candidate",
+    "entity_id": 7,
+    "model_name": "submission_success",
+    "score": 0.099,
+    "features": {
+      "match_score": 0.917,
+      "skill_overlap": 0.941,
+      "yoe": 4.9
+    },
+    "created_at": "2026-08-11 21:47:48"
+  },
+  {
+    "id": 80,
+    "entity_type": "candidate",
+    "entity_id": 7,
+    "model_name": "attrition_risk",
+    "score": 0.799,
+    "features": {
+      "match_score": 0.487,
+      "skill_overlap": 0.475,
+      "yoe": 4.9
+    },
+    "created_at": "2026-08-13 21:47:48"
+  },
+  {
+    "id": 81,
+    "entity_type": "client",
+    "entity_id": 1,
+    "model_name": "client_churn",
+    "score": 0.145,
+    "features": {
+      "req_volume": 3,
+      "margin_pct": 9.6
+    },
+    "created_at": "2026-08-31 21:47:48"
+  },
+  {
+    "id": 82,
+    "entity_type": "client",
+    "entity_id": 2,
+    "model_name": "client_churn",
+    "score": 0.451,
+    "features": {
+      "req_volume": 0,
+      "margin_pct": 6.8
+    },
+    "created_at": "2026-09-02 21:47:48"
+  },
+  {
+    "id": 83,
+    "entity_type": "client",
+    "entity_id": 3,
+    "model_name": "client_churn",
+    "score": 0.228,
+    "features": {
+      "req_volume": 8,
+      "margin_pct": 11.2
+    },
+    "created_at": "2026-08-30 21:47:48"
+  },
+  {
+    "id": 84,
+    "entity_type": "client",
+    "entity_id": 4,
+    "model_name": "client_churn",
+    "score": 0.23,
+    "features": {
+      "req_volume": 4,
+      "margin_pct": 27.0
+    },
+    "created_at": "2026-08-30 21:47:48"
+  },
+  {
+    "id": 85,
+    "entity_type": "client",
+    "entity_id": 5,
+    "model_name": "client_churn",
+    "score": 0.495,
+    "features": {
+      "req_volume": 4,
+      "margin_pct": 10.0
+    },
+    "created_at": "2026-09-03 21:47:48"
+  },
+  {
+    "id": 86,
+    "entity_type": "client",
+    "entity_id": 6,
+    "model_name": "client_churn",
+    "score": 0.516,
+    "features": {
+      "req_volume": 5,
+      "margin_pct": 28.0
+    },
+    "created_at": "2026-08-29 21:47:48"
+  },
+  {
+    "id": 87,
+    "entity_type": "client",
+    "entity_id": 7,
+    "model_name": "client_churn",
+    "score": 0.67,
+    "features": {
+      "req_volume": 1,
+      "margin_pct": 31.3
+    },
+    "created_at": "2026-09-05 21:47:48"
+  },
+  {
+    "id": 88,
+    "entity_type": "client",
+    "entity_id": 8,
+    "model_name": "client_churn",
+    "score": 0.641,
+    "features": {
+      "req_volume": 10,
+      "margin_pct": 22.1
+    },
+    "created_at": "2026-08-28 21:47:48"
+  },
+  {
+    "id": 89,
+    "entity_type": "client",
+    "entity_id": 9,
+    "model_name": "client_churn",
+    "score": 0.066,
+    "features": {
+      "req_volume": 0,
+      "margin_pct": 23.2
+    },
+    "created_at": "2026-08-29 21:47:48"
+  },
+  {
+    "id": 90,
+    "entity_type": "client",
+    "entity_id": 10,
+    "model_name": "client_churn",
+    "score": 0.82,
+    "features": {
+      "req_volume": 1,
+      "margin_pct": 15.9
+    },
+    "created_at": "2026-08-30 21:47:48"
+  },
+  {
+    "id": 91,
+    "entity_type": "client",
+    "entity_id": 11,
+    "model_name": "client_churn",
+    "score": 0.087,
+    "features": {
+      "req_volume": 3,
+      "margin_pct": 23.4
+    },
+    "created_at": "2026-09-05 21:47:48"
+  },
+  {
+    "id": 92,
+    "entity_type": "client",
+    "entity_id": 12,
+    "model_name": "client_churn",
+    "score": 0.101,
+    "features": {
+      "req_volume": 11,
+      "margin_pct": 12.4
+    },
+    "created_at": "2026-09-04 21:47:48"
+  }
+]

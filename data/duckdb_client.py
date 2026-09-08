@@ -201,9 +201,26 @@ def get_recruiter_kpis(days: int = 30) -> pd.DataFrame:
     try:
         return query_duckdb(sql)
     except Exception as e:
-        logger.warning(f"Recruiter KPI query failed: {e}")
-        from db.queries import get_recruiters
-        return get_recruiters()
+        logger.warning(f"Recruiter KPI query failed, using Postgres: {e}")
+        from db.queries import get_recruiters, get_placements
+        recruiters = get_recruiters()
+        placements = get_placements()
+        rows = []
+        for _, r in recruiters.iterrows():
+            p = placements[placements["recruiter_id"] == r["id"]]
+            subs = len(p)
+            ints = len(p[p["stage"].isin(["interview", "offer", "hire"])])
+            hires = len(p[p["stage"] == "hire"])
+            rows.append({
+                "recruiter_id": r["id"],
+                "recruiter_name": r["name"],
+                "total_submissions": subs,
+                "interviews": ints,
+                "placements": hires,
+                "conversion_rate_pct": round(hires / subs * 100, 1) if subs else 0.0,
+                "avg_match_score": round(p["match_score"].mean(), 1) if subs else 0.0,
+            })
+        return pd.DataFrame(rows)
 
 
 def get_revenue_by_client(months: int = 6) -> pd.DataFrame:
