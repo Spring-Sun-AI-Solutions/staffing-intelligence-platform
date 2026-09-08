@@ -1,0 +1,151 @@
+id,candidate_id,job_id,recruiter_id,client_id,stage,match_score,skill_gap,bill_rate,pay_rate,margin,submitted_at
+1,40,26,5,3,interview,95.9,"{'missing': [], 'severity': 'low'}",94.18,78.1,16.08,2026-02-19 21:47:48
+2,75,19,2,5,hire,50.3,"{'missing': ['Kubernetes', 'dbt', 'Tableau'], 'severity': 'high'}",110.83,70.08,40.75,2026-04-14 21:47:48
+3,15,7,6,7,submitted,66.6,"{'missing': ['Snowflake'], 'severity': 'medium'}",74.3,51.66,22.64,2026-04-04 21:47:48
+4,61,28,2,1,offer,97.9,"{'missing': ['dbt'], 'severity': 'medium'}",118.18,93.9,24.28,2026-05-08 21:47:48
+5,68,13,5,1,interview,95.3,"{'missing': ['CI/CD', 'TensorFlow', 'Salesforce', 'Spark'], 'severity': 'high'}",69.47,45.96,23.51,2026-06-28 21:47:48
+6,72,10,6,7,hire,55.0,"{'missing': ['Machine Learning', 'PostgreSQL'], 'severity': 'medium'}",86.07,73.46,12.61,2026-06-10 21:47:48
+7,72,30,6,10,interview,91.4,"{'missing': ['Azure', 'scikit-learn'], 'severity': 'medium'}",109.1,86.54,22.56,2026-05-29 21:47:48
+8,45,25,4,6,offer,82.1,"{'missing': ['Node.js', 'Salesforce'], 'severity': 'medium'}",93.29,64.34,28.95,2026-07-15 21:47:48
+9,26,27,5,1,hire,50.1,"{'missing': ['GCP', 'AWS'], 'severity': 'medium'}",84.08,70.96,13.12,2026-08-26 21:47:48
+10,68,8,6,5,hire,35.3,"{'missing': ['CI/CD', 'Rust', 'AWS'], 'severity': 'high'}",89.6,56.68,32.92,2026-04-20 21:47:48
+11,21,14,3,12,submitted,38.7,"{'missing': ['Rust', 'SQL', 'Machine Learning'], 'severity': 'high'}",101.32,84.23,17.09,2026-02-23 21:47:48
+12,12,21,2,3,interview,87.8,"{'missing': [], 'severity': 'low'}",95.35,71.37,23.99,2026-01-11 21:47:48
+13,5,27,3,1,offer,41.8,"{'missing': ['JavaScript', 'Python'], 'severity': 'medium'}",80.12,59.2,20.92,2026-06-14 21:47:48
+14,37,15,3,7,submitted,42.1,"{'missing': ['GCP', 'Airflow', 'Go'], 'severity': 'high'}",120.63,90.52,30.11,2026-07-28 21:47:48
+15,59,21,6,3,hire,46.1,"{'missing': ['Machine Learning', 'scikit-learn'], 'severity': 'medium'}",87.43,58.11,29.32,2026-01-31 21:47:48
+16,52,27,4,1,interview,50.6,"{'missing': ['AWS', 'Terraform', 'GCP'], 'severity': 'high'}",80.98,56.58,24.4,2026-07-03 21:47:48
+17,50,8,6,5,offer,51.5,"{'missing': ['Data Engineering', 'FastAPI'], 'severity': 'medium'}",82.53,56.46,26.07,2026-06-07 21:47:48
+18,31,2,6,6,interview,91.4,"{'missing': ['Power BI'], 'severity': 'medium'}",70.02,51.24,18.79,2026-03-11 21:47:48
+19,40,23,2,10,rejected,65.1,"{'missing': ['SAP', 'MongoDB'], 'severity': 'medium'}",71.17,59.77,11.4,2026-05-14 21:47:48
+20,78,12,6,3,hire,90.0,"{'missing': ['TensorFlow', 'PostgreSQL', 'Redis'], 'severity': 'high'}",66.98,50.36,16.62,2026-08-18 21:47:48
+21,68,15,2,7,offer,44.4,"{'missing': ['Azure', 'TypeScript', 'PyTorch', 'Airflow'], 'severity': 'high'}",104.96,74.19,30.77,2026-06-16 21:47:48
+22,67,15,1,7,interview,67.3,"{'missing': ['Scala', 'Node.js', 'Airflow', '.NET'], 'severity': 'high'}",90.95,60.87,30.08,2026-05-14 21:47:48
+23,73,2,3,6,hire,82.0,"{'missing': ['Java', 'Power BI'], 'severity': 'medium'}",67.73,52.93,14.8,2026-04-12 21:47:48
+24,10,2,3,6,interview,83.4,"{'missing': ['TypeScript', 'React', 'Rust', 'JavaScript'], 'severity': 'high'}",64.9,51.15,13.75,2026-02-23 21:47:48
+25,54,12,2,3,offer,56.9,"{'missing': ['Tableau', 'Node.js', 'TensorFlow'], 'severity': 'high'}",80.83,57.53,23.3,2026-07-24 21:47:48
+26,69,13,1,1,rejected,64.2,"{'missing': ['Python'], 'severity': 'medium'}",75.28,59.82,15.46,2026-03-07 21:47:48
+27,70,14,3,12,submitted,46.9,"{'missing': ['Go'], 'severity': 'medium'}",98.3,80.37,17.93,2026-01-26 21:47:48
+28,15,2,2,6,submitted,41.4,"{'missing': [], 'severity': 'low'}",73.0,52.6,20.39,2026-08-30 21:47:48
+29,58,20,4,3,interview,69.0,"{'missing': ['JavaScript'], 'severity': 'medium'}",92.42,76.65,15.77,2026-02-26 21:47:48
+30,8,5,3,8,rejected,97.1,"{'missing': ['DevOps', 'scikit-learn', 'Django', 'Redis'], 'severity': 'high'}",103.57,71.4,32.17,2026-04-27 21:47:48
+31,29,14,1,12,rejected,94.3,"{'missing': ['Terraform', 'C#', 'PyTorch', 'Scala'], 'severity': 'high'}",92.51,58.71,33.8,2026-03-20 21:47:48
+32,49,26,2,3,hire,64.8,"{'missing': ['Docker', 'Data Engineering', 'Tableau'], 'severity': 'high'}",87.44,68.83,18.61,2026-02-02 21:47:48
+33,29,10,4,7,interview,43.4,"{'missing': ['TypeScript', 'PyTorch', 'Snowflake'], 'severity': 'high'}",103.15,67.53,35.62,2026-07-07 21:47:48
+34,33,7,6,7,hire,38.2,"{'missing': ['SAP', 'Node.js', 'TensorFlow'], 'severity': 'high'}",79.28,50.66,28.62,2026-06-03 21:47:48
+35,78,20,3,3,rejected,36.0,"{'missing': ['PyTorch', 'PostgreSQL', 'Rust', 'CI/CD'], 'severity': 'high'}",81.67,52.06,29.61,2026-01-11 21:47:48
+36,25,24,4,5,rejected,69.8,"{'missing': ['Redis', 'Django', 'PostgreSQL'], 'severity': 'high'}",79.93,68.73,11.2,2026-02-21 21:47:48
+37,37,13,5,1,rejected,64.4,"{'missing': ['Spark', 'SAP'], 'severity': 'medium'}",73.59,57.08,16.51,2026-02-14 21:47:48
+38,61,25,1,6,offer,48.9,"{'missing': ['DevOps', 'Snowflake'], 'severity': 'medium'}",93.95,78.87,15.09,2026-08-01 21:47:48
+39,3,9,3,1,submitted,70.9,"{'missing': ['Machine Learning', 'Docker', 'SQL'], 'severity': 'high'}",102.71,78.07,24.63,2026-07-07 21:47:48
+40,64,18,2,8,hire,57.2,"{'missing': ['Scala', 'Go'], 'severity': 'medium'}",125.53,98.46,27.07,2026-08-03 21:47:48
+41,70,16,5,3,submitted,88.3,"{'missing': [], 'severity': 'low'}",108.44,90.38,18.06,2026-02-10 21:47:48
+42,7,25,6,6,submitted,48.8,"{'missing': ['React'], 'severity': 'medium'}",78.12,51.01,27.11,2026-05-14 21:47:48
+43,48,2,5,6,interview,35.7,"{'missing': ['Rust', 'Scala', 'Java', 'Python'], 'severity': 'high'}",68.97,53.8,15.17,2026-04-25 21:47:48
+44,36,18,2,8,submitted,74.0,"{'missing': ['Terraform', 'AWS', 'dbt'], 'severity': 'high'}",138.12,86.2,51.92,2026-07-05 21:47:48
+45,46,9,6,1,submitted,78.1,"{'missing': ['Go', 'scikit-learn', 'Redis'], 'severity': 'high'}",110.44,70.57,39.87,2026-02-02 21:47:48
+46,11,21,1,3,interview,58.8,"{'missing': [], 'severity': 'low'}",105.79,82.09,23.7,2026-05-09 21:47:48
+47,8,21,1,3,rejected,92.9,"{'missing': ['C#', 'CI/CD', 'scikit-learn'], 'severity': 'high'}",81.24,53.71,27.53,2026-07-11 21:47:48
+48,28,29,6,6,rejected,91.7,"{'missing': ['Kafka', 'JavaScript', 'React'], 'severity': 'high'}",90.86,75.68,15.17,2026-04-16 21:47:48
+49,5,6,2,9,hire,79.9,"{'missing': ['FastAPI'], 'severity': 'medium'}",103.01,71.64,31.37,2026-05-29 21:47:48
+50,10,10,6,7,submitted,97.3,"{'missing': ['TensorFlow', 'CI/CD', 'Tableau'], 'severity': 'high'}",84.39,57.19,27.2,2026-03-06 21:47:48
+51,11,17,4,6,submitted,39.8,"{'missing': [], 'severity': 'low'}",109.33,76.86,32.47,2026-04-06 21:47:48
+52,79,20,6,3,submitted,97.5,"{'missing': [], 'severity': 'low'}",87.74,70.69,17.05,2026-05-05 21:47:48
+53,30,12,6,3,interview,83.6,"{'missing': ['FastAPI'], 'severity': 'medium'}",70.27,49.9,20.37,2026-06-24 21:47:48
+54,32,23,3,10,submitted,35.3,"{'missing': ['Docker', 'Tableau', 'DevOps'], 'severity': 'high'}",69.98,47.89,22.09,2026-06-21 21:47:48
+55,57,12,2,3,interview,70.1,"{'missing': [], 'severity': 'low'}",75.27,48.52,26.76,2026-04-29 21:47:48
+56,53,4,5,3,offer,55.4,"{'missing': [], 'severity': 'low'}",68.02,47.95,20.07,2026-06-01 21:47:48
+57,2,10,6,7,interview,43.7,"{'missing': ['Redis', 'scikit-learn', 'dbt', 'Kubernetes'], 'severity': 'high'}",91.17,73.58,17.6,2026-06-22 21:47:48
+58,35,16,4,3,hire,57.8,"{'missing': ['Snowflake', 'Data Engineering'], 'severity': 'medium'}",107.11,70.7,36.4,2026-07-06 21:47:48
+59,64,20,1,3,rejected,55.9,"{'missing': ['Data Engineering'], 'severity': 'medium'}",91.48,66.77,24.71,2026-04-02 21:47:48
+60,49,26,3,3,offer,78.8,"{'missing': ['Django', 'GCP', 'Data Engineering'], 'severity': 'high'}",93.52,67.86,25.66,2026-05-08 21:47:48
+61,41,6,2,9,interview,52.7,"{'missing': ['Scala', 'scikit-learn'], 'severity': 'medium'}",104.01,88.67,15.34,2026-02-18 21:47:48
+62,51,12,6,3,interview,79.6,"{'missing': ['TensorFlow', 'Terraform', 'PyTorch', 'Java'], 'severity': 'high'}",59.73,45.12,14.62,2026-05-18 21:47:48
+63,38,27,2,1,submitted,44.7,"{'missing': ['Scala', 'GCP', 'Data Engineering'], 'severity': 'high'}",88.4,72.18,16.22,2026-05-22 21:47:48
+64,49,3,5,5,submitted,96.0,"{'missing': ['Power BI', 'TensorFlow', 'Airflow', 'Snowflake'], 'severity': 'high'}",99.68,76.1,23.57,2026-03-12 21:47:48
+65,69,20,2,3,offer,37.8,"{'missing': ['Salesforce'], 'severity': 'medium'}",91.85,58.82,33.03,2026-03-26 21:47:48
+66,52,25,1,6,submitted,49.0,"{'missing': [], 'severity': 'low'}",84.3,68.38,15.92,2026-02-28 21:47:48
+67,67,18,6,8,offer,66.5,"{'missing': ['SAP', 'Power BI', 'Go'], 'severity': 'high'}",122.64,92.97,29.67,2026-06-11 21:47:48
+68,4,16,1,3,hire,81.0,"{'missing': [], 'severity': 'low'}",105.66,76.06,29.6,2026-06-10 21:47:48
+69,40,11,4,1,hire,63.5,"{'missing': ['Salesforce', 'Rust', 'AWS'], 'severity': 'high'}",72.48,48.54,23.94,2026-08-21 21:47:48
+70,39,2,6,6,submitted,46.0,"{'missing': ['AWS', 'Kubernetes'], 'severity': 'medium'}",73.01,47.29,25.73,2026-07-29 21:47:48
+71,43,18,1,8,hire,90.6,"{'missing': ['Terraform', 'C#', 'Power BI'], 'severity': 'high'}",116.63,85.24,31.39,2026-05-15 21:47:48
+72,76,14,6,12,hire,38.9,"{'missing': ['Kafka'], 'severity': 'medium'}",94.72,74.75,19.97,2026-08-12 21:47:48
+73,69,6,3,9,offer,65.8,"{'missing': [], 'severity': 'low'}",87.24,58.22,29.03,2026-03-28 21:47:48
+74,41,20,3,3,interview,63.8,"{'missing': [], 'severity': 'low'}",87.61,62.57,25.04,2026-07-25 21:47:48
+75,39,30,1,10,submitted,42.4,"{'missing': ['DevOps'], 'severity': 'medium'}",99.82,63.92,35.9,2026-06-04 21:47:48
+76,19,17,6,6,interview,92.9,"{'missing': ['Tableau', 'C#', 'Terraform', 'Scala'], 'severity': 'high'}",95.76,73.08,22.68,2026-01-12 21:47:48
+77,23,18,4,8,offer,89.5,"{'missing': ['DevOps'], 'severity': 'medium'}",106.51,73.42,33.09,2026-09-05 21:47:48
+78,63,5,4,8,submitted,70.6,"{'missing': ['Airflow', 'Scala', 'Snowflake', '.NET'], 'severity': 'high'}",98.32,70.02,28.3,2026-02-16 21:47:48
+79,29,10,5,7,hire,83.3,"{'missing': ['Kubernetes', 'Go'], 'severity': 'medium'}",80.88,54.51,26.37,2026-04-20 21:47:48
+80,66,4,5,3,submitted,61.8,"{'missing': ['SAP', 'TensorFlow', 'JavaScript', '.NET'], 'severity': 'high'}",89.34,61.13,28.2,2026-03-03 21:47:48
+81,32,10,4,7,rejected,42.4,"{'missing': ['Salesforce', 'Node.js'], 'severity': 'medium'}",103.62,65.05,38.57,2026-02-12 21:47:48
+82,31,7,5,7,submitted,48.0,"{'missing': ['C#', 'Kubernetes'], 'severity': 'medium'}",86.97,66.19,20.78,2026-07-17 21:47:48
+83,8,19,3,5,rejected,67.4,"{'missing': ['Kubernetes', 'DevOps', 'Machine Learning', 'scikit-learn'], 'severity': 'high'}",114.52,78.73,35.79,2026-01-20 21:47:48
+84,13,5,3,8,rejected,43.0,"{'missing': [], 'severity': 'low'}",111.37,90.05,21.32,2026-01-29 21:47:48
+85,17,8,4,5,submitted,74.8,"{'missing': ['Power BI'], 'severity': 'medium'}",71.41,49.8,21.62,2026-03-31 21:47:48
+86,54,13,4,1,interview,52.5,"{'missing': [], 'severity': 'low'}",73.2,56.52,16.69,2026-01-11 21:47:48
+87,48,15,6,7,submitted,96.2,"{'missing': [], 'severity': 'low'}",119.31,83.34,35.97,2026-03-29 21:47:48
+88,46,28,2,1,interview,55.3,"{'missing': ['C#'], 'severity': 'medium'}",82.85,61.99,20.86,2026-06-27 21:47:48
+89,44,18,1,8,offer,87.7,"{'missing': ['CI/CD', 'TypeScript', 'JavaScript'], 'severity': 'high'}",122.54,92.62,29.92,2026-09-03 21:47:48
+90,16,30,4,10,submitted,78.4,"{'missing': [], 'severity': 'low'}",106.87,77.58,29.29,2026-08-05 21:47:48
+91,39,6,6,9,interview,40.2,"{'missing': [], 'severity': 'low'}",101.48,84.27,17.21,2026-03-21 21:47:48
+92,22,2,6,6,submitted,41.0,"{'missing': ['C#'], 'severity': 'medium'}",64.32,44.6,19.73,2026-07-15 21:47:48
+93,62,3,4,5,hire,65.1,"{'missing': ['Python', 'CI/CD', 'Azure'], 'severity': 'high'}",91.45,61.66,29.79,2026-07-11 21:47:48
+94,50,3,2,5,interview,86.2,"{'missing': ['SAP', 'Data Engineering'], 'severity': 'medium'}",107.0,68.97,38.03,2026-01-27 21:47:48
+95,18,21,3,3,hire,74.6,"{'missing': ['scikit-learn', 'Python', 'Kubernetes', '.NET'], 'severity': 'high'}",105.82,69.24,36.58,2026-07-31 21:47:48
+96,53,20,1,3,submitted,42.8,"{'missing': [], 'severity': 'low'}",92.67,76.58,16.09,2026-03-05 21:47:48
+97,50,12,3,3,offer,50.6,"{'missing': ['Redis'], 'severity': 'medium'}",80.12,55.72,24.4,2026-04-07 21:47:48
+98,77,24,6,5,rejected,47.9,"{'missing': [], 'severity': 'low'}",92.19,74.39,17.8,2026-04-05 21:47:48
+99,66,7,2,7,interview,42.1,"{'missing': [], 'severity': 'low'}",85.97,59.4,26.57,2026-05-03 21:47:48
+100,77,3,4,5,rejected,70.8,"{'missing': ['DevOps', 'GCP'], 'severity': 'medium'}",101.74,86.95,14.79,2026-06-06 21:47:48
+101,70,22,1,2,offer,35.9,"{'missing': [], 'severity': 'low'}",85.53,62.7,22.83,2026-07-14 21:47:48
+102,6,30,6,10,interview,75.4,"{'missing': ['Machine Learning', 'Airflow', 'Snowflake', 'C#'], 'severity': 'high'}",83.75,67.79,15.96,2026-04-23 21:47:48
+103,79,5,4,8,offer,83.1,"{'missing': ['PostgreSQL', 'Docker', 'TensorFlow', 'DevOps'], 'severity': 'high'}",99.72,69.24,30.48,2026-03-25 21:47:48
+104,9,10,2,7,submitted,62.4,"{'missing': ['TypeScript'], 'severity': 'medium'}",98.86,78.62,20.25,2026-05-14 21:47:48
+105,79,20,1,3,hire,79.2,"{'missing': ['Azure'], 'severity': 'medium'}",81.94,63.9,18.04,2026-07-28 21:47:48
+106,64,12,2,3,hire,90.0,"{'missing': ['Kubernetes', 'SAP'], 'severity': 'medium'}",69.55,56.19,13.36,2026-03-04 21:47:48
+107,16,25,3,6,hire,71.3,"{'missing': ['Kafka', 'dbt', 'React'], 'severity': 'high'}",95.1,66.61,28.49,2026-08-19 21:47:48
+108,64,15,5,7,offer,42.3,"{'missing': ['Kubernetes', 'SAP', 'Spark', 'AWS'], 'severity': 'high'}",104.37,66.1,38.27,2026-03-02 21:47:48
+109,66,1,4,5,interview,93.0,"{'missing': ['JavaScript'], 'severity': 'medium'}",72.19,59.71,12.48,2026-07-24 21:47:48
+110,5,18,4,8,rejected,55.2,"{'missing': ['MongoDB', 'DevOps', 'Redis'], 'severity': 'high'}",131.32,103.92,27.4,2026-02-08 21:47:48
+111,10,19,2,5,submitted,67.5,"{'missing': [], 'severity': 'low'}",115.18,85.29,29.89,2026-08-27 21:47:48
+112,52,3,5,5,interview,58.2,"{'missing': ['DevOps', 'Node.js'], 'severity': 'medium'}",110.8,91.73,19.07,2026-06-25 21:47:48
+113,73,26,2,3,hire,69.4,"{'missing': ['SAP', 'FastAPI', 'Scala'], 'severity': 'high'}",83.47,64.23,19.24,2026-02-16 21:47:48
+114,32,5,3,8,offer,78.7,"{'missing': ['TensorFlow'], 'severity': 'medium'}",95.11,68.33,26.78,2026-09-05 21:47:48
+115,43,1,5,5,rejected,61.4,"{'missing': ['AWS', 'PostgreSQL'], 'severity': 'medium'}",91.49,64.99,26.5,2026-08-23 21:47:48
+116,19,23,4,10,hire,58.5,"{'missing': ['dbt'], 'severity': 'medium'}",75.56,47.64,27.91,2026-02-28 21:47:48
+117,11,19,1,5,interview,95.7,"{'missing': ['React', 'FastAPI', 'scikit-learn'], 'severity': 'high'}",106.87,69.68,37.19,2026-07-09 21:47:48
+118,38,9,2,1,submitted,47.8,"{'missing': ['DevOps', '.NET', 'Kafka'], 'severity': 'high'}",112.23,94.53,17.7,2026-02-20 21:47:48
+119,75,4,5,3,interview,83.5,"{'missing': ['DevOps', 'Snowflake', 'Azure'], 'severity': 'high'}",73.06,48.18,24.88,2026-05-15 21:47:48
+120,40,15,6,7,hire,37.5,"{'missing': ['Data Engineering'], 'severity': 'medium'}",96.01,62.29,33.72,2026-02-06 21:47:48
+121,42,5,1,8,offer,51.4,"{'missing': ['Power BI', 'Airflow'], 'severity': 'medium'}",96.55,65.61,30.94,2026-07-25 21:47:48
+122,4,13,1,1,submitted,87.3,"{'missing': ['Redis', 'AWS', 'Go', 'GCP'], 'severity': 'high'}",84.07,63.34,20.73,2026-07-13 21:47:48
+123,17,7,5,7,offer,92.8,"{'missing': [], 'severity': 'low'}",87.18,61.84,25.34,2026-08-19 21:47:48
+124,3,3,3,5,submitted,94.4,"{'missing': ['Node.js'], 'severity': 'medium'}",93.14,72.19,20.95,2026-08-26 21:47:48
+125,22,30,6,10,interview,57.3,"{'missing': ['Scala', 'Java', 'Tableau'], 'severity': 'high'}",98.64,80.61,18.03,2026-01-18 21:47:48
+126,24,9,5,1,offer,50.5,"{'missing': [], 'severity': 'low'}",93.96,78.17,15.78,2026-06-24 21:47:48
+127,64,14,3,12,interview,61.4,"{'missing': [], 'severity': 'low'}",107.07,78.69,28.38,2026-03-27 21:47:48
+128,68,8,4,5,hire,57.6,"{'missing': [], 'severity': 'low'}",89.34,72.59,16.75,2026-04-21 21:47:48
+129,63,12,3,3,offer,36.8,"{'missing': ['Kafka', 'Terraform', 'Java'], 'severity': 'high'}",78.9,58.43,20.47,2026-02-12 21:47:48
+130,36,2,2,6,submitted,76.4,"{'missing': ['FastAPI', 'MongoDB'], 'severity': 'medium'}",72.98,53.51,19.47,2026-07-01 21:47:48
+131,69,27,4,1,interview,87.9,"{'missing': ['scikit-learn'], 'severity': 'medium'}",91.15,72.64,18.51,2026-02-03 21:47:48
+132,23,6,6,9,hire,94.7,"{'missing': ['FastAPI', 'Java'], 'severity': 'medium'}",83.62,58.23,25.39,2026-04-16 21:47:48
+133,19,19,4,5,submitted,38.5,"{'missing': ['TensorFlow', 'Data Engineering', 'Terraform'], 'severity': 'high'}",132.45,108.72,23.73,2026-04-06 21:47:48
+134,29,1,3,5,submitted,44.3,"{'missing': ['SQL', 'GCP', 'CI/CD', 'Terraform'], 'severity': 'high'}",85.21,52.85,32.37,2026-03-11 21:47:48
+135,19,25,6,6,rejected,59.9,"{'missing': ['React', 'SAP'], 'severity': 'medium'}",80.11,59.79,20.32,2026-08-13 21:47:48
+136,44,10,6,7,rejected,78.7,"{'missing': ['Scala', 'DevOps', 'Terraform'], 'severity': 'high'}",88.71,75.78,12.93,2026-01-13 21:47:48
+137,79,26,3,3,hire,53.6,"{'missing': ['Tableau'], 'severity': 'medium'}",84.42,65.83,18.6,2026-07-24 21:47:48
+138,1,23,5,10,submitted,70.6,"{'missing': ['JavaScript', 'Terraform', 'Django', 'DevOps'], 'severity': 'high'}",93.61,66.84,26.78,2026-01-11 21:47:48
+139,64,5,6,8,rejected,40.6,"{'missing': ['DevOps', 'Kubernetes'], 'severity': 'medium'}",100.63,64.27,36.36,2026-03-10 21:47:48
+140,43,15,3,7,submitted,41.8,"{'missing': [], 'severity': 'low'}",87.39,58.58,28.81,2026-09-07 21:47:48
+141,7,13,4,1,rejected,57.1,"{'missing': ['Snowflake'], 'severity': 'medium'}",72.83,52.49,20.34,2026-06-03 21:47:48
+142,13,27,4,1,submitted,88.3,"{'missing': ['Kubernetes'], 'severity': 'medium'}",82.43,68.2,14.23,2026-06-24 21:47:48
+143,3,11,2,1,hire,69.5,"{'missing': ['Kubernetes', 'Tableau'], 'severity': 'medium'}",65.88,42.5,23.38,2026-01-21 21:47:48
+144,12,11,5,1,rejected,44.9,"{'missing': ['Java', 'C#', 'Kubernetes'], 'severity': 'high'}",77.2,59.23,17.97,2026-08-13 21:47:48
+145,43,7,2,7,submitted,59.8,"{'missing': ['TensorFlow', 'Spark', 'Machine Learning', 'Data Engineering'], 'severity': 'high'}",89.59,64.35,25.24,2026-04-20 21:47:48
+146,63,5,3,8,hire,74.4,"{'missing': [], 'severity': 'low'}",95.93,59.56,36.36,2026-05-08 21:47:48
+147,26,4,1,3,submitted,60.0,"{'missing': ['Node.js', 'Rust'], 'severity': 'medium'}",68.0,44.95,23.05,2026-05-05 21:47:48
+148,34,3,2,5,interview,51.6,"{'missing': ['Tableau', 'SAP'], 'severity': 'medium'}",104.69,74.64,30.04,2026-05-11 21:47:48
+149,34,8,1,5,offer,85.9,"{'missing': ['AWS'], 'severity': 'medium'}",96.97,73.25,23.72,2026-05-25 21:47:48
+150,76,8,2,5,interview,40.0,"{'missing': ['Snowflake', 'TensorFlow', 'Rust', 'scikit-learn'], 'severity': 'high'}",86.48,71.07,15.41,2026-01-19 21:47:48

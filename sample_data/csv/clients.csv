@@ -1,0 +1,13 @@
+id,name,industry,contact_name,contact_email,status,req_volume,margin_pct
+1,Meridian Financial,Healthcare,Maria Dubois,contact1@meridianfinancial.com,active,3,9.6
+2,Northwind Health,Healthcare,Kwame Chen,contact2@northwindhealth.com,active,0,6.8
+3,Vertex Technologies,Retail,Sofia Singh,contact3@vertextechnologies.com,active,8,11.2
+4,Summit Retail Group,Logistics,Ana Tanaka,contact4@summitretailgroup.com,active,4,27.0
+5,Atlas Manufacturing,Financial Services,Priyanka Rossi,contact5@atlasmanufacturing.com,active,4,10.0
+6,Pinnacle Insurance,Insurance,Carlos Chen,contact6@pinnacleinsurance.com,active,5,28.0
+7,Coastal Telecom,Manufacturing,Wei Dubois,contact7@coastaltelecom.com,active,1,31.3
+8,BrightPath Energy,Telecom,Aisha Mueller,contact8@brightpathenergy.com,active,10,22.1
+9,Horizon Bank,Insurance,Hassan Rodriguez,contact9@horizonbank.com,active,0,23.2
+10,Cedar Analytics,Manufacturing,Aisha Costa,contact10@cedaranalytics.com,active,1,15.9
+11,Ironclad Logistics,Energy,Diego Patel,contact11@ironcladlogistics.com,active,3,23.4
+12,Lumen Health Systems,Healthcare,Nikolai Okafor,contact12@lumenhealthsystems.com,active,11,12.4

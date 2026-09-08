@@ -1,0 +1,81 @@
+id,name,email,phone,skills,visa_status,location,yoe,rate,is_active_contractor,tenure_days,comms_gap_days,overtime_pct,client_feedback_score,attrition_risk_score
+1,Claire Davis,claire.davis1@example.com,+1-555-4598,"['DevOps', 'TypeScript', 'MongoDB', 'JavaScript', 'Django', 'Power BI', 'Kafka', 'React', 'AWS']",stem_opt,"Denver, CO",15.9,90.0,True,691.0,31.0,11.9,4.7,0.449
+2,Nina Brown,nina.brown2@example.com,+1-555-9830,"['FastAPI', 'C#', 'Power BI', 'SAP', 'MongoDB', 'GCP']",gc,"San Francisco, CA",13.8,150.0,True,176.0,10.0,23.8,3.3,0.105
+3,Hana Nguyen,hana.nguyen3@example.com,+1-555-9669,"['PyTorch', 'Python', 'Azure', 'TensorFlow', 'Kafka', 'CI/CD']",citizen,"Atlanta, GA",3.7,55.0,False,,,,,
+4,Nina Singh,nina.singh4@example.com,+1-555-9317,"['Data Engineering', 'Airflow', 'Django', 'SQL']",citizen,"Austin, TX",10.2,141.0,False,,,,,
+5,Elena Smith,elena.smith5@example.com,+1-555-9005,"['Azure', 'SAP', 'Data Engineering', 'Redis']",citizen,"Denver, CO",17.1,64.0,False,,,,,
+6,Zara Ali,zara.ali6@example.com,+1-555-9727,"['GCP', 'Rust', 'PyTorch', 'Kubernetes', 'Spark']",gc,"Denver, CO",8.2,78.0,True,572.0,12.0,21.4,3.2,0.634
+7,Diego Lopez,diego.lopez7@example.com,+1-555-8397,"['Redis', 'MongoDB', 'React', 'CI/CD']",citizen,"Dallas, TX",4.9,79.0,False,,,,,
+8,John Rossi,john.rossi8@example.com,+1-555-4750,"['JavaScript', 'CI/CD', 'React', 'Airflow']",citizen,"Charlotte, NC",9.3,114.0,False,,,,,
+9,Hassan Kim,hassan.kim9@example.com,+1-555-8749,"['SQL', 'AWS', 'FastAPI', 'C#', 'Salesforce', 'PyTorch', 'Snowflake']",gc,"Phoenix, AZ",1.9,127.0,False,,,,,
+10,Carlos Garcia,carlos.garcia10@example.com,+1-555-6559,"['Redis', 'SQL', 'TensorFlow', '.NET']",citizen,"Austin, TX",5.7,82.0,True,97.0,28.0,24.2,4.6,0.135
+11,Kwame Ali,kwame.ali11@example.com,+1-555-2528,"['Kubernetes', 'Snowflake', 'Scala', 'Rust', 'PostgreSQL']",opt,"New York, NY",3.8,55.0,True,419.0,16.0,27.8,4.4,0.298
+12,Ingrid Andersson,ingrid.andersson12@example.com,+1-555-3536,"['Machine Learning', 'PostgreSQL', 'TypeScript', 'FastAPI', 'TensorFlow']",citizen,"Boston, MA",2.0,119.0,False,,,,,
+13,Marcus Costa,marcus.costa13@example.com,+1-555-1931,"['Node.js', 'Terraform', 'React', 'scikit-learn', 'Redis', 'Power BI', 'Azure', 'TensorFlow']",gc,"New York, NY",11.5,101.0,False,,,,,
+14,Yara Kim,yara.kim14@example.com,+1-555-5272,"['DevOps', 'Redis', 'Spark', 'Power BI', 'GCP']",h1b,"Seattle, WA",8.8,157.0,False,,,,,
+15,John Smith,john.smith15@example.com,+1-555-2638,"['TensorFlow', 'PostgreSQL', 'Airflow', 'Spark']",citizen,"Boston, MA",16.0,152.0,False,,,,,
+16,Diego Johnson,diego.johnson16@example.com,+1-555-9900,"['Data Engineering', 'dbt', 'Python', 'PyTorch', 'Django', 'AWS', 'GCP', 'Spark', 'TypeScript']",opt,"Phoenix, AZ",10.4,85.0,True,639.0,13.0,21.5,2.6,0.602
+17,Nina Singh,nina.singh17@example.com,+1-555-1832,"['C#', 'Kafka', 'JavaScript', 'Python']",citizen,"Austin, TX",11.8,84.0,False,,,,,
+18,Ravi Mueller,ravi.mueller18@example.com,+1-555-1158,"['React', 'Docker', 'TensorFlow', 'JavaScript']",opt,"Denver, CO",10.4,102.0,False,,,,,
+19,Wei Johnson,wei.johnson19@example.com,+1-555-1653,"['PostgreSQL', 'Redis', 'AWS', 'Salesforce', 'Snowflake', 'Docker']",stem_opt,"Chicago, IL",15.7,162.0,True,850.0,11.0,26.4,2.1,0.691
+20,Omar Silva,omar.silva20@example.com,+1-555-5065,"['Kubernetes', 'AWS', 'Tableau', 'JavaScript', 'Rust', 'MongoDB']",citizen,Remote,6.9,145.0,False,,,,,
+21,Sofia Tanaka,sofia.tanaka21@example.com,+1-555-4164,"['CI/CD', 'Kafka', 'React', 'FastAPI', 'Salesforce', 'Airflow', 'Power BI']",h1b,"Dallas, TX",6.6,58.0,True,287.0,11.0,17.4,5.0,0.083
+22,Nikolai Hassan,nikolai.hassan22@example.com,+1-555-6139,"['Django', 'Airflow', 'Azure', 'Tableau', 'SQL', 'Spark', 'JavaScript']",h1b,"New York, NY",9.8,144.0,True,723.0,12.0,10.9,2.2,0.628
+23,Omar Nguyen,omar.nguyen23@example.com,+1-555-3041,"['Data Engineering', 'Airflow', 'Django', 'Snowflake', 'DevOps', 'Power BI', 'Machine Learning', 'GCP', 'AWS']",gc,"Atlanta, GA",12.5,154.0,True,650.0,19.0,12.2,4.5,0.314
+24,Ahmed Hassan,ahmed.hassan24@example.com,+1-555-6279,"['.NET', 'Django', 'PostgreSQL', 'Airflow', 'Rust', 'Kubernetes', 'Node.js']",citizen,"Charlotte, NC",11.8,92.0,False,,,,,
+25,Kevin Andersson,kevin.andersson25@example.com,+1-555-4262,"['Java', 'JavaScript', 'Redis', 'Rust', 'React']",gc,"Charlotte, NC",10.8,134.0,True,413.0,31.0,12.0,2.4,0.648
+26,Carlos Novak,carlos.novak26@example.com,+1-555-3881,"['dbt', 'Go', 'TypeScript', 'PyTorch', 'Redis', 'Azure', 'FastAPI', 'GCP', 'Power BI']",gc,"Dallas, TX",17.8,120.0,True,793.0,28.0,18.4,4.2,0.489
+27,Ingrid Lopez,ingrid.lopez27@example.com,+1-555-8777,"['Spark', 'Redis', 'Kafka', 'dbt', 'Scala', 'FastAPI', 'scikit-learn']",gc,"Phoenix, AZ",5.9,85.0,False,,,,,
+28,Mei Mueller,mei.mueller28@example.com,+1-555-3471,"['Tableau', 'Docker', 'PostgreSQL', 'React', 'Snowflake']",gc,"Dallas, TX",8.9,62.0,True,872.0,26.0,11.7,4.3,0.873
+29,Maria Costa,maria.costa29@example.com,+1-555-7232,"['Python', 'Salesforce', 'Data Engineering', 'Tableau', 'Snowflake', 'MongoDB', 'Scala']",citizen,"Atlanta, GA",9.3,98.0,False,,,,,
+30,Victor Dubois,victor.dubois30@example.com,+1-555-8657,"['TensorFlow', 'Java', 'Power BI', 'FastAPI', 'scikit-learn']",h1b,"San Francisco, CA",11.9,70.0,True,492.0,11.0,1.5,3.1,0.234
+31,Mei Sharma,mei.sharma31@example.com,+1-555-7211,"['Snowflake', 'Spark', 'Node.js', 'Rust', 'Java', 'TypeScript']",ead,"Boston, MA",4.8,63.0,False,,,,,
+32,Wei Novak,wei.novak32@example.com,+1-555-5051,"['Java', 'Docker', 'Redis', 'GCP', 'Rust']",h1b,"Denver, CO",17.1,106.0,True,282.0,23.0,5.0,3.8,0.701
+33,Yuki Novak,yuki.novak33@example.com,+1-555-6096,"['FastAPI', 'Java', 'Data Engineering', 'scikit-learn']",h1b,"Atlanta, GA",7.7,134.0,False,,,,,
+34,John Kim,john.kim34@example.com,+1-555-4978,"['Data Engineering', 'Django', 'Azure', 'scikit-learn']",h1b,"Boston, MA",10.1,128.0,False,,,,,
+35,John Singh,john.singh35@example.com,+1-555-1207,"['Scala', 'AWS', 'C#', 'SAP', 'Go', 'Docker', 'scikit-learn']",citizen,"Dallas, TX",17.4,85.0,False,,,,,
+36,Kwame Novak,kwame.novak36@example.com,+1-555-8136,"['FastAPI', 'Kafka', 'DevOps', 'Redis', 'Node.js', 'Django', '.NET', 'PyTorch', 'Tableau']",gc,"Denver, CO",12.4,92.0,False,,,,,
+37,Zara Costa,zara.costa37@example.com,+1-555-8988,"['Salesforce', 'Spark', 'CI/CD', 'Kafka', 'Django']",h1b,"Seattle, WA",10.4,112.0,True,215.0,5.0,7.2,3.2,0.533
+38,Kevin Rossi,kevin.rossi38@example.com,+1-555-9041,"['Java', 'Node.js', 'Machine Learning', 'MongoDB', 'Power BI', 'Redis', 'Data Engineering']",h1b,"Boston, MA",9.0,113.0,False,,,,,
+39,Sam Dubois,sam.dubois39@example.com,+1-555-6764,"['Go', 'Kafka', 'Data Engineering', 'Spark', 'MongoDB', 'Azure', 'SQL', 'DevOps', 'TypeScript']",h1b,"Phoenix, AZ",4.1,79.0,False,,,,,
+40,Ben Ivanova,ben.ivanova40@example.com,+1-555-9595,"['Machine Learning', 'AWS', 'SQL', 'Django', 'MongoDB', 'SAP', 'Terraform', 'Data Engineering']",citizen,"Dallas, TX",3.2,60.0,False,,,,,
+41,Fatima Mueller,fatima.mueller41@example.com,+1-555-3068,"['Scala', 'AWS', 'Python', 'Machine Learning', 'Rust', 'TensorFlow', '.NET', 'CI/CD', 'Node.js']",ead,"Seattle, WA",17.0,108.0,True,861.0,4.0,12.0,2.2,0.598
+42,Fatima Brown,fatima.brown42@example.com,+1-555-5978,"['Redis', 'Azure', 'PyTorch', 'Snowflake']",h1b,"Denver, CO",4.8,112.0,True,481.0,28.0,8.9,3.8,0.423
+43,Hassan Nguyen,hassan.nguyen43@example.com,+1-555-2625,"['PostgreSQL', 'Spark', 'Node.js', 'Kubernetes', 'Redis']",citizen,"San Francisco, CA",3.7,100.0,True,725.0,30.0,8.7,2.7,0.665
+44,Claire Chen,claire.chen44@example.com,+1-555-5334,"['FastAPI', 'SQL', 'C#', 'Azure', 'TensorFlow', 'MongoDB', 'Docker', 'Kafka', 'Snowflake']",citizen,"New York, NY",3.8,89.0,False,,,,,
+45,Hassan Johnson,hassan.johnson45@example.com,+1-555-8679,"['Data Engineering', 'Power BI', 'Kafka', 'Airflow', 'TensorFlow', 'Scala', '.NET', 'Node.js', 'Django']",citizen,"Atlanta, GA",13.5,121.0,True,46.0,5.0,6.9,4.0,0.799
+46,Yara Smith,yara.smith46@example.com,+1-555-5415,"['JavaScript', 'Terraform', 'Rust', 'dbt', '.NET', 'Kafka', 'FastAPI', 'C#']",h1b,Remote,17.5,107.0,False,,,,,
+47,Ana Sharma,ana.sharma47@example.com,+1-555-2713,"['CI/CD', 'Snowflake', 'Scala', 'Machine Learning', 'Power BI']",h1b,"Dallas, TX",1.6,65.0,True,278.0,20.0,3.5,4.3,0.802
+48,James Andersson,james.andersson48@example.com,+1-555-8569,"['TypeScript', 'SQL', 'dbt', 'SAP', 'Scala', '.NET', 'Django']",citizen,"Dallas, TX",3.2,87.0,False,,,,,
+49,Zara Khan,zara.khan49@example.com,+1-555-4920,"['Kubernetes', 'Data Engineering', 'PyTorch', 'Python', 'Snowflake', 'Node.js', 'MongoDB', 'Azure', 'Airflow']",stem_opt,"Charlotte, NC",15.1,110.0,True,753.0,18.0,15.3,2.8,0.776
+50,Ben Tanaka,ben.tanaka50@example.com,+1-555-3369,"['SQL', 'Airflow', 'GCP', 'React', 'Kafka', 'Snowflake', 'CI/CD']",stem_opt,"Dallas, TX",5.5,55.0,False,,,,,
+51,Lucas Ali,lucas.ali51@example.com,+1-555-9022,"['.NET', 'TensorFlow', 'Rust', 'Salesforce', 'CI/CD']",gc,"Dallas, TX",7.4,158.0,False,,,,,
+52,Linda Rossi,linda.rossi52@example.com,+1-555-7274,"['Snowflake', 'JavaScript', 'DevOps', 'Rust', 'Tableau']",gc,"Charlotte, NC",14.5,127.0,True,175.0,31.0,28.9,2.4,0.89
+53,Omar Costa,omar.costa53@example.com,+1-555-8213,"['dbt', 'Go', 'Python', 'Docker']",gc,"Charlotte, NC",17.5,63.0,True,820.0,16.0,10.2,4.1,0.615
+54,Omar Costa,omar.costa54@example.com,+1-555-9742,"['DevOps', 'Scala', 'TensorFlow', 'JavaScript', 'React', 'Redis', 'Machine Learning']",ead,"Phoenix, AZ",2.5,163.0,False,,,,,
+55,Carlos Lopez,carlos.lopez55@example.com,+1-555-5906,"['JavaScript', 'DevOps', 'TypeScript', 'Machine Learning']",citizen,"Atlanta, GA",3.5,113.0,True,599.0,11.0,5.1,2.2,0.808
+56,Ava Andersson,ava.andersson56@example.com,+1-555-3344,"['Go', 'Spark', 'Python', 'Machine Learning', 'TensorFlow']",citizen,Remote,17.1,164.0,True,326.0,27.0,20.7,3.4,0.313
+57,Hana Costa,hana.costa57@example.com,+1-555-4886,"['scikit-learn', 'Salesforce', 'Django', 'Machine Learning', 'PyTorch', 'Java', 'Power BI']",citizen,"Denver, CO",15.7,141.0,False,,,,,
+58,Fatima Nguyen,fatima.nguyen58@example.com,+1-555-5689,"['Django', 'Salesforce', 'MongoDB', 'SQL', 'Spark']",h1b,"Phoenix, AZ",14.0,130.0,False,,,,,
+59,Olga Okafor,olga.okafor59@example.com,+1-555-1645,"['.NET', 'JavaScript', 'SAP', 'GCP', 'Node.js', 'Machine Learning']",citizen,"Atlanta, GA",4.0,70.0,True,572.0,23.0,15.9,4.7,0.773
+60,Nina Ali,nina.ali60@example.com,+1-555-5835,"['CI/CD', 'Azure', 'Go', 'React', 'Docker', 'MongoDB', 'Power BI', 'SAP', 'JavaScript']",h1b,"New York, NY",5.5,69.0,False,,,,,
+61,Diego Andersson,diego.andersson61@example.com,+1-555-5295,"['Tableau', 'SAP', 'AWS', 'MongoDB', 'Rust', 'Java', 'DevOps', 'PyTorch']",h1b,"Charlotte, NC",15.0,155.0,False,,,,,
+62,Lucas Okafor,lucas.okafor62@example.com,+1-555-3290,"['JavaScript', 'Data Engineering', 'Scala', 'Azure']",citizen,"Dallas, TX",3.3,105.0,True,706.0,34.0,12.6,4.2,0.184
+63,Ana Okafor,ana.okafor63@example.com,+1-555-9017,"['Snowflake', 'Kafka', 'JavaScript', 'SAP', 'PostgreSQL', '.NET', 'dbt', 'Redis']",opt,"San Francisco, CA",17.7,95.0,True,680.0,22.0,1.8,2.8,0.892
+64,Claire Chen,claire.chen64@example.com,+1-555-1349,"['CI/CD', 'Redis', 'GCP', 'scikit-learn']",citizen,"Dallas, TX",4.5,79.0,False,,,,,
+65,Sofia Sharma,sofia.sharma65@example.com,+1-555-1046,"['Docker', 'GCP', 'TensorFlow', 'Spark', 'Terraform', 'Azure']",h1b,"New York, NY",3.2,94.0,False,,,,,
+66,Kevin Kim,kevin.kim66@example.com,+1-555-3854,"['TypeScript', 'GCP', 'Snowflake', 'dbt', 'Azure', 'React']",gc,"Boston, MA",9.7,67.0,True,535.0,14.0,28.4,2.1,0.731
+67,Elena Johnson,elena.johnson67@example.com,+1-555-1510,"['Rust', 'Power BI', 'C#', 'AWS']",gc,Remote,2.2,64.0,False,,,,,
+68,Nikolai Brown,nikolai.brown68@example.com,+1-555-5505,"['FastAPI', 'PyTorch', 'DevOps', 'Tableau', 'dbt', 'Machine Learning', 'Go', 'C#']",citizen,"Phoenix, AZ",2.9,127.0,True,807.0,35.0,21.6,2.6,0.443
+69,Sofia Hassan,sofia.hassan69@example.com,+1-555-8430,"['Snowflake', 'AWS', 'DevOps', 'C#', 'scikit-learn', 'Spark', 'SAP']",stem_opt,"Charlotte, NC",16.7,62.0,True,871.0,5.0,2.8,2.3,0.693
+70,Olga Mueller,olga.mueller70@example.com,+1-555-6400,"['Azure', 'Snowflake', 'Salesforce', 'C#', 'TypeScript', 'Machine Learning', 'Data Engineering', 'scikit-learn', 'TensorFlow']",gc,"Chicago, IL",3.6,108.0,True,887.0,6.0,10.5,3.7,0.15
+71,Raj Kim,raj.kim71@example.com,+1-555-8030,"['PyTorch', 'Java', 'Kafka', 'FastAPI', 'Terraform', 'scikit-learn', 'Data Engineering', 'CI/CD']",citizen,"Austin, TX",15.8,117.0,True,430.0,4.0,4.3,3.9,0.077
+72,Elena Rodriguez,elena.rodriguez72@example.com,+1-555-8432,"['Kubernetes', 'SAP', 'Data Engineering', 'DevOps', 'Node.js', 'TypeScript']",citizen,"Denver, CO",1.8,64.0,True,473.0,27.0,14.6,3.3,0.288
+73,Marcus Khan,marcus.khan73@example.com,+1-555-2816,"['FastAPI', 'Scala', 'dbt', 'Data Engineering', 'JavaScript', 'MongoDB']",gc,"Denver, CO",1.9,77.0,True,236.0,8.0,22.9,2.9,0.154
+74,Zara Dubois,zara.dubois74@example.com,+1-555-3116,"['TensorFlow', 'MongoDB', 'Airflow', 'PyTorch', 'Salesforce', 'React', 'Power BI']",opt,"New York, NY",8.4,106.0,True,99.0,20.0,17.3,3.7,0.667
+75,Ana Johnson,ana.johnson75@example.com,+1-555-1341,"['Kubernetes', 'Go', 'SAP', 'Node.js', 'C#', 'AWS']",citizen,"Denver, CO",7.8,64.0,True,337.0,21.0,6.6,4.3,0.116
+76,Yuki Singh,yuki.singh76@example.com,+1-555-6724,"['Docker', 'Redis', 'AWS', 'Django', 'Spark', 'SQL']",citizen,"Austin, TX",13.9,127.0,False,,,,,
+77,Tom Novak,tom.novak77@example.com,+1-555-8601,"['FastAPI', '.NET', 'scikit-learn', 'DevOps', 'PyTorch', 'Docker', 'Django', 'React']",gc,"Charlotte, NC",6.1,85.0,False,,,,,
+78,Fatima Wilson,fatima.wilson78@example.com,+1-555-6085,"['.NET', 'JavaScript', 'TypeScript', 'SAP', 'Machine Learning', 'React', 'Node.js']",h1b,"Dallas, TX",7.5,119.0,False,,,,,
+79,Wei Lopez,wei.lopez79@example.com,+1-555-4084,"['Django', 'Rust', 'Airflow', 'Docker', 'TypeScript', '.NET']",citizen,"Boston, MA",17.7,64.0,False,,,,,
+80,Tom Garcia,tom.garcia80@example.com,+1-555-8172,"['dbt', 'Django', 'Kubernetes', 'SAP', 'PyTorch', 'Machine Learning', 'Tableau']",gc,"Boston, MA",12.5,61.0,True,666.0,21.0,2.0,2.3,0.64

@@ -1,0 +1,93 @@
+id,entity_type,entity_id,model_name,score,features,created_at
+1,candidate,12,submission_success,0.519,"{'match_score': 0.938, 'skill_overlap': 0.578, 'yoe': 2.0}",2026-08-17 21:47:48
+2,candidate,12,attrition_risk,0.915,"{'match_score': 0.909, 'skill_overlap': 0.327, 'yoe': 2.0}",2026-08-15 21:47:48
+3,candidate,20,submission_success,0.088,"{'match_score': 0.909, 'skill_overlap': 0.617, 'yoe': 6.9}",2026-08-30 21:47:48
+4,candidate,20,attrition_risk,0.483,"{'match_score': 0.494, 'skill_overlap': 0.488, 'yoe': 6.9}",2026-09-06 21:47:48
+5,candidate,2,submission_success,0.827,"{'match_score': 0.442, 'skill_overlap': 0.29, 'yoe': 13.8}",2026-08-18 21:47:48
+6,candidate,2,attrition_risk,0.441,"{'match_score': 0.31, 'skill_overlap': 0.836, 'yoe': 13.8}",2026-08-20 21:47:48
+7,candidate,64,submission_success,0.158,"{'match_score': 0.813, 'skill_overlap': 0.207, 'yoe': 4.5}",2026-09-06 21:47:48
+8,candidate,64,attrition_risk,0.573,"{'match_score': 0.749, 'skill_overlap': 0.751, 'yoe': 4.5}",2026-09-03 21:47:48
+9,candidate,28,submission_success,0.384,"{'match_score': 0.358, 'skill_overlap': 0.326, 'yoe': 8.9}",2026-09-05 21:47:48
+10,candidate,28,attrition_risk,0.667,"{'match_score': 0.52, 'skill_overlap': 0.976, 'yoe': 8.9}",2026-08-14 21:47:48
+11,candidate,44,submission_success,0.613,"{'match_score': 0.339, 'skill_overlap': 0.716, 'yoe': 3.8}",2026-08-16 21:47:48
+12,candidate,44,attrition_risk,0.533,"{'match_score': 0.37, 'skill_overlap': 0.59, 'yoe': 3.8}",2026-08-28 21:47:48
+13,candidate,54,submission_success,0.934,"{'match_score': 0.813, 'skill_overlap': 0.805, 'yoe': 2.5}",2026-08-13 21:47:48
+14,candidate,54,attrition_risk,0.853,"{'match_score': 0.777, 'skill_overlap': 0.217, 'yoe': 2.5}",2026-08-26 21:47:48
+15,candidate,40,submission_success,0.372,"{'match_score': 0.388, 'skill_overlap': 0.919, 'yoe': 3.2}",2026-08-23 21:47:48
+16,candidate,40,attrition_risk,0.686,"{'match_score': 0.663, 'skill_overlap': 0.634, 'yoe': 3.2}",2026-08-23 21:47:48
+17,candidate,77,submission_success,0.221,"{'match_score': 0.421, 'skill_overlap': 0.478, 'yoe': 6.1}",2026-08-15 21:47:48
+18,candidate,77,attrition_risk,0.472,"{'match_score': 0.864, 'skill_overlap': 0.679, 'yoe': 6.1}",2026-08-11 21:47:48
+19,candidate,48,submission_success,0.549,"{'match_score': 0.345, 'skill_overlap': 0.324, 'yoe': 3.2}",2026-08-29 21:47:48
+20,candidate,48,attrition_risk,0.787,"{'match_score': 0.652, 'skill_overlap': 0.563, 'yoe': 3.2}",2026-08-14 21:47:48
+21,candidate,60,submission_success,0.624,"{'match_score': 0.546, 'skill_overlap': 0.348, 'yoe': 5.5}",2026-09-07 21:47:48
+22,candidate,60,attrition_risk,0.608,"{'match_score': 0.537, 'skill_overlap': 0.696, 'yoe': 5.5}",2026-08-28 21:47:48
+23,candidate,5,submission_success,0.699,"{'match_score': 0.728, 'skill_overlap': 0.631, 'yoe': 17.1}",2026-08-26 21:47:48
+24,candidate,5,attrition_risk,0.221,"{'match_score': 0.744, 'skill_overlap': 0.813, 'yoe': 17.1}",2026-09-03 21:47:48
+25,candidate,43,submission_success,0.602,"{'match_score': 0.51, 'skill_overlap': 0.713, 'yoe': 3.7}",2026-09-04 21:47:48
+26,candidate,43,attrition_risk,0.137,"{'match_score': 0.728, 'skill_overlap': 0.235, 'yoe': 3.7}",2026-08-08 21:47:48
+27,candidate,11,submission_success,0.167,"{'match_score': 0.868, 'skill_overlap': 0.362, 'yoe': 3.8}",2026-08-23 21:47:48
+28,candidate,11,attrition_risk,0.222,"{'match_score': 0.321, 'skill_overlap': 0.713, 'yoe': 3.8}",2026-08-26 21:47:48
+29,candidate,19,submission_success,0.642,"{'match_score': 0.642, 'skill_overlap': 0.761, 'yoe': 15.7}",2026-08-30 21:47:48
+30,candidate,19,attrition_risk,0.094,"{'match_score': 0.443, 'skill_overlap': 0.774, 'yoe': 15.7}",2026-09-07 21:47:48
+31,candidate,8,submission_success,0.887,"{'match_score': 0.436, 'skill_overlap': 0.593, 'yoe': 9.3}",2026-08-10 21:47:48
+32,candidate,8,attrition_risk,0.799,"{'match_score': 0.604, 'skill_overlap': 0.711, 'yoe': 9.3}",2026-08-27 21:47:48
+33,candidate,35,submission_success,0.552,"{'match_score': 0.91, 'skill_overlap': 0.533, 'yoe': 17.4}",2026-08-27 21:47:48
+34,candidate,35,attrition_risk,0.765,"{'match_score': 0.338, 'skill_overlap': 0.694, 'yoe': 17.4}",2026-08-22 21:47:48
+35,candidate,50,submission_success,0.087,"{'match_score': 0.346, 'skill_overlap': 0.443, 'yoe': 5.5}",2026-08-08 21:47:48
+36,candidate,50,attrition_risk,0.244,"{'match_score': 0.638, 'skill_overlap': 0.281, 'yoe': 5.5}",2026-08-31 21:47:48
+37,candidate,26,submission_success,0.528,"{'match_score': 0.423, 'skill_overlap': 0.621, 'yoe': 17.8}",2026-08-31 21:47:48
+38,candidate,26,attrition_risk,0.563,"{'match_score': 0.916, 'skill_overlap': 0.647, 'yoe': 17.8}",2026-08-21 21:47:48
+39,candidate,69,submission_success,0.424,"{'match_score': 0.369, 'skill_overlap': 0.711, 'yoe': 16.7}",2026-08-27 21:47:48
+40,candidate,69,attrition_risk,0.657,"{'match_score': 0.757, 'skill_overlap': 0.542, 'yoe': 16.7}",2026-09-04 21:47:48
+41,candidate,72,submission_success,0.2,"{'match_score': 0.417, 'skill_overlap': 0.521, 'yoe': 1.8}",2026-08-28 21:47:48
+42,candidate,72,attrition_risk,0.642,"{'match_score': 0.647, 'skill_overlap': 0.68, 'yoe': 1.8}",2026-08-09 21:47:48
+43,candidate,31,submission_success,0.367,"{'match_score': 0.505, 'skill_overlap': 0.993, 'yoe': 4.8}",2026-08-28 21:47:48
+44,candidate,31,attrition_risk,0.81,"{'match_score': 0.568, 'skill_overlap': 0.707, 'yoe': 4.8}",2026-08-12 21:47:48
+45,candidate,80,submission_success,0.703,"{'match_score': 0.695, 'skill_overlap': 0.651, 'yoe': 12.5}",2026-09-01 21:47:48
+46,candidate,80,attrition_risk,0.388,"{'match_score': 0.658, 'skill_overlap': 0.796, 'yoe': 12.5}",2026-08-27 21:47:48
+47,candidate,13,submission_success,0.915,"{'match_score': 0.591, 'skill_overlap': 0.518, 'yoe': 11.5}",2026-08-15 21:47:48
+48,candidate,13,attrition_risk,0.081,"{'match_score': 0.485, 'skill_overlap': 0.213, 'yoe': 11.5}",2026-09-03 21:47:48
+49,candidate,74,submission_success,0.944,"{'match_score': 0.496, 'skill_overlap': 0.44, 'yoe': 8.4}",2026-08-31 21:47:48
+50,candidate,74,attrition_risk,0.243,"{'match_score': 0.505, 'skill_overlap': 0.817, 'yoe': 8.4}",2026-08-08 21:47:48
+51,candidate,17,submission_success,0.671,"{'match_score': 0.479, 'skill_overlap': 0.643, 'yoe': 11.8}",2026-08-21 21:47:48
+52,candidate,17,attrition_risk,0.564,"{'match_score': 0.672, 'skill_overlap': 0.275, 'yoe': 11.8}",2026-08-24 21:47:48
+53,candidate,53,submission_success,0.37,"{'match_score': 0.39, 'skill_overlap': 0.494, 'yoe': 17.5}",2026-08-20 21:47:48
+54,candidate,53,attrition_risk,0.275,"{'match_score': 0.467, 'skill_overlap': 0.44, 'yoe': 17.5}",2026-08-20 21:47:48
+55,candidate,25,submission_success,0.41,"{'match_score': 0.897, 'skill_overlap': 0.787, 'yoe': 10.8}",2026-08-15 21:47:48
+56,candidate,25,attrition_risk,0.342,"{'match_score': 0.614, 'skill_overlap': 0.591, 'yoe': 10.8}",2026-08-10 21:47:48
+57,candidate,1,submission_success,0.671,"{'match_score': 0.675, 'skill_overlap': 0.926, 'yoe': 15.9}",2026-08-19 21:47:48
+58,candidate,1,attrition_risk,0.628,"{'match_score': 0.324, 'skill_overlap': 0.847, 'yoe': 15.9}",2026-08-26 21:47:48
+59,candidate,65,submission_success,0.121,"{'match_score': 0.336, 'skill_overlap': 0.817, 'yoe': 3.2}",2026-08-27 21:47:48
+60,candidate,65,attrition_risk,0.842,"{'match_score': 0.582, 'skill_overlap': 0.944, 'yoe': 3.2}",2026-09-04 21:47:48
+61,candidate,63,submission_success,0.833,"{'match_score': 0.447, 'skill_overlap': 0.722, 'yoe': 17.7}",2026-08-19 21:47:48
+62,candidate,63,attrition_risk,0.886,"{'match_score': 0.712, 'skill_overlap': 0.706, 'yoe': 17.7}",2026-09-06 21:47:48
+63,candidate,46,submission_success,0.324,"{'match_score': 0.327, 'skill_overlap': 0.632, 'yoe': 17.5}",2026-09-03 21:47:48
+64,candidate,46,attrition_risk,0.344,"{'match_score': 0.754, 'skill_overlap': 0.323, 'yoe': 17.5}",2026-08-17 21:47:48
+65,candidate,16,submission_success,0.708,"{'match_score': 0.555, 'skill_overlap': 0.556, 'yoe': 10.4}",2026-08-19 21:47:48
+66,candidate,16,attrition_risk,0.568,"{'match_score': 0.359, 'skill_overlap': 0.546, 'yoe': 10.4}",2026-08-13 21:47:48
+67,candidate,56,submission_success,0.405,"{'match_score': 0.386, 'skill_overlap': 0.266, 'yoe': 17.1}",2026-08-20 21:47:48
+68,candidate,56,attrition_risk,0.721,"{'match_score': 0.656, 'skill_overlap': 0.41, 'yoe': 17.1}",2026-08-26 21:47:48
+69,candidate,29,submission_success,0.502,"{'match_score': 0.803, 'skill_overlap': 0.304, 'yoe': 9.3}",2026-09-03 21:47:48
+70,candidate,29,attrition_risk,0.483,"{'match_score': 0.429, 'skill_overlap': 0.516, 'yoe': 9.3}",2026-08-20 21:47:48
+71,candidate,71,submission_success,0.226,"{'match_score': 0.7, 'skill_overlap': 0.789, 'yoe': 15.8}",2026-08-31 21:47:48
+72,candidate,71,attrition_risk,0.268,"{'match_score': 0.473, 'skill_overlap': 0.544, 'yoe': 15.8}",2026-08-17 21:47:48
+73,candidate,3,submission_success,0.882,"{'match_score': 0.358, 'skill_overlap': 0.737, 'yoe': 3.7}",2026-08-25 21:47:48
+74,candidate,3,attrition_risk,0.379,"{'match_score': 0.424, 'skill_overlap': 0.476, 'yoe': 3.7}",2026-08-18 21:47:48
+75,candidate,57,submission_success,0.072,"{'match_score': 0.498, 'skill_overlap': 0.99, 'yoe': 15.7}",2026-08-19 21:47:48
+76,candidate,57,attrition_risk,0.789,"{'match_score': 0.822, 'skill_overlap': 0.699, 'yoe': 15.7}",2026-08-24 21:47:48
+77,candidate,30,submission_success,0.09,"{'match_score': 0.832, 'skill_overlap': 0.36, 'yoe': 11.9}",2026-08-27 21:47:48
+78,candidate,30,attrition_risk,0.19,"{'match_score': 0.774, 'skill_overlap': 0.269, 'yoe': 11.9}",2026-08-15 21:47:48
+79,candidate,7,submission_success,0.099,"{'match_score': 0.917, 'skill_overlap': 0.941, 'yoe': 4.9}",2026-08-11 21:47:48
+80,candidate,7,attrition_risk,0.799,"{'match_score': 0.487, 'skill_overlap': 0.475, 'yoe': 4.9}",2026-08-13 21:47:48
+81,client,1,client_churn,0.145,"{'req_volume': 3, 'margin_pct': 9.6}",2026-08-31 21:47:48
+82,client,2,client_churn,0.451,"{'req_volume': 0, 'margin_pct': 6.8}",2026-09-02 21:47:48
+83,client,3,client_churn,0.228,"{'req_volume': 8, 'margin_pct': 11.2}",2026-08-30 21:47:48
+84,client,4,client_churn,0.23,"{'req_volume': 4, 'margin_pct': 27.0}",2026-08-30 21:47:48
+85,client,5,client_churn,0.495,"{'req_volume': 4, 'margin_pct': 10.0}",2026-09-03 21:47:48
+86,client,6,client_churn,0.516,"{'req_volume': 5, 'margin_pct': 28.0}",2026-08-29 21:47:48
+87,client,7,client_churn,0.67,"{'req_volume': 1, 'margin_pct': 31.3}",2026-09-05 21:47:48
+88,client,8,client_churn,0.641,"{'req_volume': 10, 'margin_pct': 22.1}",2026-08-28 21:47:48
+89,client,9,client_churn,0.066,"{'req_volume': 0, 'margin_pct': 23.2}",2026-08-29 21:47:48
+90,client,10,client_churn,0.82,"{'req_volume': 1, 'margin_pct': 15.9}",2026-08-30 21:47:48
+91,client,11,client_churn,0.087,"{'req_volume': 3, 'margin_pct': 23.4}",2026-09-05 21:47:48
+92,client,12,client_churn,0.101,"{'req_volume': 11, 'margin_pct': 12.4}",2026-09-04 21:47:48

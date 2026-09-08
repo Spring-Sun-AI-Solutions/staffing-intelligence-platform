@@ -1,0 +1,228 @@
+{
+  "chat_histories": {
+    "recruiter1": [
+      {
+        "role": "user",
+        "content": "Which candidates have Python and AWS experience?"
+      },
+      {
+        "role": "assistant",
+        "content": "I found 12 candidates with both Python and AWS. Top matches by experience: James Chen (8 yrs, H1B), Maria Garcia (6 yrs, US Citizen), Wei Patel (7 yrs, Green Card). All three are currently available."
+      },
+      {
+        "role": "user",
+        "content": "What are their rate expectations?"
+      },
+      {
+        "role": "assistant",
+        "content": "James Chen $115/hr, Maria Garcia $98/hr, Wei Patel $105/hr. These are all within market range for Python + AWS in their locations."
+      }
+    ],
+    "recruiter2": [
+      {
+        "role": "user",
+        "content": "Show me contractors with high attrition risk"
+      },
+      {
+        "role": "assistant",
+        "content": "3 contractors flagged high risk: Ahmed Hassan (0.78 \u2014 21 day comms gap, feedback 2.4), Nina Rossi (0.71 \u2014 28% overtime, short tenure), Diego Silva (0.68 \u2014 declining feedback trend)."
+      }
+    ],
+    "manager1": [
+      {
+        "role": "user",
+        "content": "What's the going rate for a senior React developer in New York?"
+      },
+      {
+        "role": "assistant",
+        "content": "For a senior React developer in New York with 8+ years, recommended bill rate is $116/hr with pay rate $87/hr \u2014 a 25% margin. Market range is $94-$132/hr."
+      }
+    ],
+    "exec1": [
+      {
+        "role": "user",
+        "content": "Which clients are at risk of churning?"
+      },
+      {
+        "role": "assistant",
+        "content": "2 clients show high churn risk: Coastal Telecom (0.74 \u2014 req volume down 60% over 90 days, margin at 8.2%) and BrightPath Energy (0.68 \u2014 no submissions in 45 days)."
+      }
+    ]
+  },
+  "job_last_run": {
+    "embed_candidates": "2026-09-07T18:48:07.073943",
+    "embed_jobs": "2026-09-07T04:48:07.074000",
+    "score_attrition": "2026-09-07T11:48:07.074014",
+    "score_client_churn": "2026-09-07T07:48:07.074023",
+    "detect_anomalies": "2026-09-07T07:48:07.074031",
+    "refresh_duckdb": "2026-09-07T04:48:07.074040"
+  },
+  "match_cache": {
+    "1": [
+      {
+        "candidate_id": 39,
+        "candidate_name": "Sam Dubois",
+        "match_score": 94.9
+      },
+      {
+        "candidate_id": 48,
+        "candidate_name": "James Andersson",
+        "match_score": 61.2
+      },
+      {
+        "candidate_id": 52,
+        "candidate_name": "Linda Rossi",
+        "match_score": 73.4
+      },
+      {
+        "candidate_id": 2,
+        "candidate_name": "Nina Brown",
+        "match_score": 88.3
+      },
+      {
+        "candidate_id": 53,
+        "candidate_name": "Omar Costa",
+        "match_score": 67.3
+      },
+      {
+        "candidate_id": 37,
+        "candidate_name": "Zara Costa",
+        "match_score": 69.2
+      },
+      {
+        "candidate_id": 3,
+        "candidate_name": "Hana Nguyen",
+        "match_score": 71.2
+      },
+      {
+        "candidate_id": 29,
+        "candidate_name": "Maria Costa",
+        "match_score": 84.2
+      },
+      {
+        "candidate_id": 62,
+        "candidate_name": "Lucas Okafor",
+        "match_score": 91.7
+      },
+      {
+        "candidate_id": 70,
+        "candidate_name": "Olga Mueller",
+        "match_score": 91.4
+      }
+    ],
+    "2": [
+      {
+        "candidate_id": 78,
+        "candidate_name": "Fatima Wilson",
+        "match_score": 73.0
+      },
+      {
+        "candidate_id": 46,
+        "candidate_name": "Yara Smith",
+        "match_score": 89.6
+      },
+      {
+        "candidate_id": 24,
+        "candidate_name": "Ahmed Hassan",
+        "match_score": 80.5
+      },
+      {
+        "candidate_id": 7,
+        "candidate_name": "Diego Lopez",
+        "match_score": 61.1
+      },
+      {
+        "candidate_id": 9,
+        "candidate_name": "Hassan Kim",
+        "match_score": 78.4
+      },
+      {
+        "candidate_id": 12,
+        "candidate_name": "Ingrid Andersson",
+        "match_score": 63.6
+      },
+      {
+        "candidate_id": 21,
+        "candidate_name": "Sofia Tanaka",
+        "match_score": 62.2
+      },
+      {
+        "candidate_id": 57,
+        "candidate_name": "Hana Costa",
+        "match_score": 89.5
+      },
+      {
+        "candidate_id": 1,
+        "candidate_name": "Claire Davis",
+        "match_score": 87.9
+      },
+      {
+        "candidate_id": 79,
+        "candidate_name": "Wei Lopez",
+        "match_score": 79.9
+      }
+    ],
+    "3": [
+      {
+        "candidate_id": 68,
+        "candidate_name": "Nikolai Brown",
+        "match_score": 81.4
+      },
+      {
+        "candidate_id": 37,
+        "candidate_name": "Zara Costa",
+        "match_score": 80.2
+      },
+      {
+        "candidate_id": 53,
+        "candidate_name": "Omar Costa",
+        "match_score": 75.8
+      },
+      {
+        "candidate_id": 80,
+        "candidate_name": "Tom Garcia",
+        "match_score": 75.8
+      },
+      {
+        "candidate_id": 72,
+        "candidate_name": "Elena Rodriguez",
+        "match_score": 71.1
+      },
+      {
+        "candidate_id": 15,
+        "candidate_name": "John Smith",
+        "match_score": 82.5
+      },
+      {
+        "candidate_id": 25,
+        "candidate_name": "Kevin Andersson",
+        "match_score": 73.3
+      },
+      {
+        "candidate_id": 9,
+        "candidate_name": "Hassan Kim",
+        "match_score": 65.4
+      },
+      {
+        "candidate_id": 63,
+        "candidate_name": "Ana Okafor",
+        "match_score": 70.6
+      },
+      {
+        "candidate_id": 47,
+        "candidate_name": "Ana Sharma",
+        "match_score": 87.9
+      }
+    ]
+  },
+  "query_cache": {
+    "candidates:summary": {
+      "total": 80,
+      "active": 39
+    },
+    "clients:summary": {
+      "total": 12,
+      "at_risk": 3
+    }
+  }
+}

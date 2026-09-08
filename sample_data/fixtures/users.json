@@ -1,0 +1,37 @@
+[
+  {
+    "id": 1,
+    "username": "recruiter1",
+    "name": "Alex Recruiter",
+    "email": "alex@company.com",
+    "role": "recruiter"
+  },
+  {
+    "id": 2,
+    "username": "recruiter2",
+    "name": "Priya Recruiter",
+    "email": "priya@company.com",
+    "role": "recruiter"
+  },
+  {
+    "id": 3,
+    "username": "manager1",
+    "name": "Sam Manager",
+    "email": "sam@company.com",
+    "role": "manager"
+  },
+  {
+    "id": 4,
+    "username": "exec1",
+    "name": "Jordan Executive",
+    "email": "jordan@company.com",
+    "role": "exec"
+  },
+  {
+    "id": 5,
+    "username": "compliance1",
+    "name": "Casey Compliance",
+    "email": "casey@company.com",
+    "role": "compliance"
+  }
+]

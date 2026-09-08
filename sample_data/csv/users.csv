@@ -1,0 +1,6 @@
+id,username,name,email,role
+1,recruiter1,Alex Recruiter,alex@company.com,recruiter
+2,recruiter2,Priya Recruiter,priya@company.com,recruiter
+3,manager1,Sam Manager,sam@company.com,manager
+4,exec1,Jordan Executive,jordan@company.com,exec
+5,compliance1,Casey Compliance,casey@company.com,compliance

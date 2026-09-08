@@ -1,0 +1,340 @@
+[
+  {
+    "file": "Ravi_Garcia_resume.pdf",
+    "format": "pdf",
+    "name": "Ravi Garcia",
+    "skills": [
+      "Spark",
+      "Terraform",
+      "scikit-learn",
+      "GCP",
+      "Power BI",
+      "SQL",
+      "Docker",
+      "CI/CD",
+      "FastAPI"
+    ],
+    "visa": "gc",
+    "location": "New York, NY",
+    "expected_yoe": 7
+  },
+  {
+    "file": "Yara_Smith_resume.pdf",
+    "format": "pdf",
+    "name": "Yara Smith",
+    "skills": [
+      "TypeScript",
+      "Node.js",
+      "JavaScript",
+      "Kubernetes",
+      "Django",
+      "Spark",
+      "Go",
+      "Docker"
+    ],
+    "visa": "citizen",
+    "location": "Atlanta, GA",
+    "expected_yoe": 5
+  },
+  {
+    "file": "James_Singh_resume.pdf",
+    "format": "pdf",
+    "name": "James Singh",
+    "skills": [
+      "scikit-learn",
+      "Azure",
+      "Spark",
+      "Machine Learning",
+      "Python",
+      "FastAPI",
+      "Kafka",
+      "Data Engineering"
+    ],
+    "visa": "ead",
+    "location": "New York, NY",
+    "expected_yoe": 7
+  },
+  {
+    "file": "Yuki_Rossi_resume.pdf",
+    "format": "pdf",
+    "name": "Yuki Rossi",
+    "skills": [
+      "MongoDB",
+      "Machine Learning",
+      "Data Engineering",
+      "Power BI",
+      "AWS",
+      "Kubernetes",
+      "CI/CD",
+      "FastAPI",
+      "JavaScript",
+      "Tableau"
+    ],
+    "visa": "citizen",
+    "location": "Denver, CO",
+    "expected_yoe": 7
+  },
+  {
+    "file": "Elena_Smith_resume.pdf",
+    "format": "pdf",
+    "name": "Elena Smith",
+    "skills": [
+      "PostgreSQL",
+      "SAP",
+      "AWS",
+      "dbt",
+      "Docker",
+      ".NET",
+      "Kubernetes",
+      "GCP",
+      "Spark",
+      "Java"
+    ],
+    "visa": "opt",
+    "location": "Dallas, TX",
+    "expected_yoe": 7
+  },
+  {
+    "file": "Ravi_Smith_resume.pdf",
+    "format": "pdf",
+    "name": "Ravi Smith",
+    "skills": [
+      "Scala",
+      "PostgreSQL",
+      "Go",
+      "C#",
+      "AWS",
+      "Redis"
+    ],
+    "visa": "gc",
+    "location": "Boston, MA",
+    "expected_yoe": 7
+  },
+  {
+    "file": "Ingrid_Davis_resume.pdf",
+    "format": "pdf",
+    "name": "Ingrid Davis",
+    "skills": [
+      "TypeScript",
+      "DevOps",
+      "PyTorch",
+      "React",
+      "Redis",
+      "PostgreSQL"
+    ],
+    "visa": "gc",
+    "location": "Chicago, IL",
+    "expected_yoe": 7
+  },
+  {
+    "file": "Linda_Novak_resume.pdf",
+    "format": "pdf",
+    "name": "Linda Novak",
+    "skills": [
+      "React",
+      "Snowflake",
+      "Salesforce",
+      "Kubernetes",
+      "Terraform",
+      "Django",
+      "TypeScript",
+      "Rust",
+      "PostgreSQL",
+      "C#",
+      "Docker"
+    ],
+    "visa": "h1b",
+    "location": "New York, NY",
+    "expected_yoe": 6
+  },
+  {
+    "file": "David_Mueller_resume.pdf",
+    "format": "pdf",
+    "name": "David Mueller",
+    "skills": [
+      "Azure",
+      "TypeScript",
+      "Power BI",
+      "Tableau",
+      "SAP",
+      "Docker",
+      "CI/CD",
+      "Go",
+      "Django"
+    ],
+    "visa": "citizen",
+    "location": "Phoenix, AZ",
+    "expected_yoe": 8
+  },
+  {
+    "file": "Raj_Okafor_resume.pdf",
+    "format": "pdf",
+    "name": "Raj Okafor",
+    "skills": [
+      "Kubernetes",
+      "Snowflake",
+      "TypeScript",
+      "CI/CD",
+      "Terraform",
+      "Kafka",
+      "Azure",
+      "Docker",
+      "Airflow",
+      "AWS",
+      "PyTorch"
+    ],
+    "visa": "citizen",
+    "location": "Charlotte, NC",
+    "expected_yoe": 6
+  },
+  {
+    "file": "Olga_Murphy_resume.pdf",
+    "format": "pdf",
+    "name": "Olga Murphy",
+    "skills": [
+      "MongoDB",
+      "TensorFlow",
+      ".NET",
+      "scikit-learn",
+      "Spark",
+      "PostgreSQL",
+      "SQL",
+      "Redis",
+      "GCP"
+    ],
+    "visa": "opt",
+    "location": "Dallas, TX",
+    "expected_yoe": 8
+  },
+  {
+    "file": "Elena_Mueller_resume.pdf",
+    "format": "pdf",
+    "name": "Elena Mueller",
+    "skills": [
+      "Redis",
+      "Data Engineering",
+      "Kubernetes",
+      "Machine Learning",
+      "TypeScript",
+      "SAP",
+      "Java",
+      "PyTorch",
+      "Go",
+      "AWS",
+      "Snowflake"
+    ],
+    "visa": "citizen",
+    "location": "New York, NY",
+    "expected_yoe": 4
+  },
+  {
+    "file": "Carlos_Murphy_resume.docx",
+    "format": "docx",
+    "name": "Carlos Murphy",
+    "skills": [
+      "SQL",
+      "CI/CD",
+      "Python",
+      "Airflow",
+      "Data Engineering",
+      "DevOps",
+      "Rust",
+      "AWS"
+    ],
+    "visa": "citizen",
+    "location": "Atlanta, GA",
+    "expected_yoe": 6
+  },
+  {
+    "file": "Sam_Ali_resume.docx",
+    "format": "docx",
+    "name": "Sam Ali",
+    "skills": [
+      "Power BI",
+      "CI/CD",
+      "Tableau",
+      "Airflow",
+      ".NET",
+      "Snowflake"
+    ],
+    "visa": "h1b",
+    "location": "Phoenix, AZ",
+    "expected_yoe": 8
+  },
+  {
+    "file": "Mei_Kim_resume.docx",
+    "format": "docx",
+    "name": "Mei Kim",
+    "skills": [
+      "SQL",
+      "CI/CD",
+      "PostgreSQL",
+      "C#",
+      "PyTorch",
+      "Scala",
+      "Java",
+      "Power BI",
+      "Terraform"
+    ],
+    "visa": "citizen",
+    "location": "Charlotte, NC",
+    "expected_yoe": 7
+  },
+  {
+    "file": "John_Okafor_resume.docx",
+    "format": "docx",
+    "name": "John Okafor",
+    "skills": [
+      "JavaScript",
+      "GCP",
+      "Node.js",
+      "Airflow",
+      "Snowflake",
+      "FastAPI",
+      "C#",
+      "Salesforce",
+      "Java",
+      "Machine Learning",
+      "DevOps"
+    ],
+    "visa": "gc",
+    "location": "Seattle, WA",
+    "expected_yoe": 6
+  },
+  {
+    "file": "Ravi_Mueller_resume.docx",
+    "format": "docx",
+    "name": "Ravi Mueller",
+    "skills": [
+      "Node.js",
+      "Machine Learning",
+      "GCP",
+      "React",
+      "Scala",
+      "Rust",
+      "AWS",
+      "Data Engineering"
+    ],
+    "visa": "citizen",
+    "location": "Boston, MA",
+    "expected_yoe": 6
+  },
+  {
+    "file": "Linda_Lopez_resume.docx",
+    "format": "docx",
+    "name": "Linda Lopez",
+    "skills": [
+      "DevOps",
+      "Airflow",
+      "PostgreSQL",
+      "React",
+      "FastAPI",
+      "Go",
+      "Azure",
+      "Redis"
+    ],
+    "visa": "opt",
+    "location": "Atlanta, GA",
+    "expected_yoe": 5
+  }
+]

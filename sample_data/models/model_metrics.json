@@ -1,0 +1,23 @@
+{
+  "submission_success": {
+    "cv_auc": 0.9099,
+    "algorithm": "XGBoost",
+    "n_train": 500
+  },
+  "attrition_risk": {
+    "cv_auc": 0.9577,
+    "algorithm": "XGBoost",
+    "n_train": 300
+  },
+  "client_churn": {
+    "cv_auc": 0.9204,
+    "algorithm": "LightGBM",
+    "n_train": 400
+  },
+  "timesheet_anomaly": {
+    "algorithm": "PyOD IsolationForest",
+    "n_train": 624,
+    "anomalies_detected": 32,
+    "contamination": 0.05
+  }
+}
